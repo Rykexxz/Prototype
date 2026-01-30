@@ -16,6 +16,7 @@
     "SPD": 115,
     "SPE": 100
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "DROUGHT": 1
   },

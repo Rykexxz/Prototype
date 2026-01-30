@@ -2,10 +2,10 @@ package net.pokeapi.pokemon.model;
 
 import net.pokeapi.ability.Ability;
 import net.pokeapi.gender.Gender;
+import net.pokeapi.pokemon.species.PokemonFlag;
 import net.pokeapi.pokemon.species.PokemonSpeciesData;
 import net.pokeapi.stats.calc.StatsCalculator;
 import net.pokeapi.stats.model.Nature;
-import net.pokeapi.stats.model.Stat;
 import net.pokeapi.stats.model.Stats;
 import net.pokeapi.stats.value.Evs;
 import net.pokeapi.stats.value.Ivs;
@@ -111,4 +111,6 @@ public class Pokemon {
     public String getNickname() {
         return nickname;
     }
+
+    public PokemonFlag getPokemonFlag() { return speciesData.pokemonFlag(); }
 }

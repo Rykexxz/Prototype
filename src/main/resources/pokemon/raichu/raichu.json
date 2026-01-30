@@ -16,6 +16,7 @@
     "SPD": 80,
     "SPE": 110
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "STATIC": 99.5,
     "LIGHTING_ROD": 0.5

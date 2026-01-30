@@ -16,6 +16,7 @@
     "SPD": 115,
     "SPE": 78
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "MEGA_LAUNCHER": 1
   },

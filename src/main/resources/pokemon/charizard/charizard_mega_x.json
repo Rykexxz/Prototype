@@ -16,6 +16,7 @@
     "SPD": 85,
     "SPE": 100
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "TOUGH_CLAWS": 1
   },

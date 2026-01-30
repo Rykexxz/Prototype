@@ -16,6 +16,7 @@
     "SPD": 120,
     "SPE": 80
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "THICK_FAT": 1
   },

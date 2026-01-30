@@ -16,6 +16,7 @@
     "SPD": 105,
     "SPE": 78
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "TORRENT": 99.5,
     "RAIN_DISH": 0.5

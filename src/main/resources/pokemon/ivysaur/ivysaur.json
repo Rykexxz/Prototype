@@ -16,6 +16,7 @@
     "SPD": 80,
     "SPE": 60
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "OVERGROW": 99.5,
     "CHLOROPHYLL": 0.5

@@ -16,6 +16,7 @@
     "SPD": 80,
     "SPE": 110
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "SURGE_SURFER": 1
   },

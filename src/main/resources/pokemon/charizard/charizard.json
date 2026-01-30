@@ -16,6 +16,7 @@
     "SPD": 85,
     "SPE": 100
   },
+  "pokemonFlag": "NORMAL",
   "abilities": {
     "BLAZE": 99.5,
     "SOLAR_POWER": 0.5

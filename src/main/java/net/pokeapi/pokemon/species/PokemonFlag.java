@@ -1,20 +1,11 @@
-package net.pokeapi.ability;
+package net.pokeapi.pokemon.species;
 
-public enum Ability {
-    STATIC,
-    LIGHTING_ROD,
-    SURGE_SURFER,
-    OVERGROW,
-    CHLOROPHYLL,
-    THICK_FAT,
-    TORRENT,
-    RAIN_DISH,
-    BLAZE,
-    SOLAR_POWER,
-    MEGA_LAUNCHER,
-    TOUGH_CLAWS,
-    DROUGHT,
-    UNKNOWN;
+public enum PokemonFlag {
+    NORMAL,
+    UNKNOWN,
+    LEGENDARY,
+    MYTHICAL,
+    ULTRA_BEAST;
 
     @Override
     public String toString() {
