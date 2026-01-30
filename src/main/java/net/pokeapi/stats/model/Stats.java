@@ -1,24 +1,22 @@
 package net.pokeapi.stats.model;
 
 import java.util.EnumMap;
+import java.util.Map;
 
 public class Stats {
-    protected EnumMap<Stat, Integer> stats = new EnumMap<>(Stat.class);
+    protected EnumMap<Stat, Integer> stats;
 
     public Stats() {
+        stats = new EnumMap<>(Stat.class);
         for (Stat s : Stat.values()) {
             stats.put(s, 0);
         }
     }
 
-    public Stats(EnumMap<Stat, Integer> values) {
-        this.stats = new EnumMap<>(values);
-    }
-
-
-    public void setAll(int n) {
+    public Stats(Map<Stat, Integer> values) {
+        stats = new EnumMap<>(Stat.class);
         for (Stat s : Stat.values()) {
-            stats.put(s, n);
+            stats.put(s, values.getOrDefault(s, 0));
         }
     }
 
@@ -36,6 +34,12 @@ public class Stats {
 
     public int getStat(Stat stat) {
         return stats.getOrDefault(stat, 0);
+    }
+
+    public void setAll(int n) {
+        for (Stat s : Stat.values()) {
+            stats.put(s, n);
+        }
     }
 
     public void setStat(Stat stat, int amount) {

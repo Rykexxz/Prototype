@@ -56,7 +56,7 @@ public class Pokemon {
 
     public void setFinalStats() {
         this.finalStats = StatsCalculator.calculate(
-                new Stats((EnumMap<Stat, Integer>) speciesData.baseStats()),
+                new Stats(speciesData.baseStats()),
                 ivs,
                 evs,
                 level,
