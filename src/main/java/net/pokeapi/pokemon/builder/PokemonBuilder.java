@@ -3,7 +3,7 @@ package net.pokeapi.pokemon.builder;
 import net.pokeapi.ability.Ability;
 import net.pokeapi.gender.Gender;
 import net.pokeapi.pokemon.model.Pokemon;
-import net.pokeapi.pokemon.model.PokemonSize;
+import net.pokeapi.pokemon.model.Size;
 import net.pokeapi.pokemon.species.PokemonSpeciesData;
 import net.pokeapi.rng.Ratio;
 import net.pokeapi.rng.Rng;
@@ -21,7 +21,7 @@ public class PokemonBuilder {
     private Ability ability;
     private Nature nature;
     private Boolean shiny;
-    private PokemonSize size;
+    private Size size;
 
     private final Evs evs = new Evs();
     private final Ivs ivs = new Ivs();
@@ -49,7 +49,7 @@ public class PokemonBuilder {
                 gender != null ? gender : Ratio.generate(speciesData.genders()),
                 ability != null ? ability : Ratio.generate(speciesData.abilities()),
                 nature != null ? nature : Rng.randomEnum(Nature.class),
-                size != null ? size : Rng.randomEnum(PokemonSize.class),
+                size != null ? size : Rng.randomEnum(Size.class),
                 shiny != null ? shiny : Rng.isShiny(),
                 evs,
                 ivs

@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KANTO",
   "types": ["FIRE", "FLYING"],
+  "size": {
+    "weight": 1.7,
+    "height": 90.5
+  },
   "baseStats": {
     "HP": 78,
     "ATK": 84,
@@ -16,7 +20,7 @@
     "SPD": 85,
     "SPE": 100
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "BLAZE": 99.5,
     "SOLAR_POWER": 0.5

@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "ALOLA",
   "types": ["ELECTRIC", "PSYCHIC"],
+  "size": {
+    "weight": 0.7,
+    "height": 20
+  },
   "baseStats": {
     "HP": 60,
     "ATK": 90,
@@ -16,7 +20,7 @@
     "SPD": 80,
     "SPE": 110
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "SURGE_SURFER": 1
   },

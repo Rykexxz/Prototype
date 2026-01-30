@@ -3,14 +3,13 @@ package net.pokeapi.pokemon.model;
 import net.pokeapi.ability.Ability;
 import net.pokeapi.gender.Gender;
 import net.pokeapi.pokemon.species.PokemonFlag;
+import net.pokeapi.pokemon.species.PhysicalSize;
 import net.pokeapi.pokemon.species.PokemonSpeciesData;
 import net.pokeapi.stats.calc.StatsCalculator;
 import net.pokeapi.stats.model.Nature;
 import net.pokeapi.stats.model.Stats;
 import net.pokeapi.stats.value.Evs;
 import net.pokeapi.stats.value.Ivs;
-
-import java.util.EnumMap;
 
 public class Pokemon {
 
@@ -21,7 +20,7 @@ public class Pokemon {
     private final Ability ability;
     private final Nature nature;
     private final boolean shiny;
-    public final PokemonSize size;
+    public final Size size;
 
     private final int level;
     private final Evs evs;
@@ -35,7 +34,7 @@ public class Pokemon {
             Gender gender,
             Ability ability,
             Nature nature,
-            PokemonSize size,
+            Size size,
             boolean shiny,
             Evs evs,
             Ivs ivs
@@ -47,6 +46,7 @@ public class Pokemon {
         this.ability = ability;
         this.nature = nature;
         this.size = size;
+        speciesData.size().setSize(size.getScale());
         this.shiny = shiny;
         this.evs = evs;
         this.ivs = ivs;
@@ -96,7 +96,7 @@ public class Pokemon {
         return nature;
     }
 
-    public PokemonSize getSize() {
+    public Size getSize() {
         return size;
     }
 
@@ -112,5 +112,19 @@ public class Pokemon {
         return nickname;
     }
 
-    public PokemonFlag getPokemonFlag() { return speciesData.pokemonFlag(); }
+    public PokemonFlag getPokemonFlag() {
+        return speciesData.flag();
+    }
+
+    public PhysicalSize getPokemonSize() {
+        return speciesData.size();
+    }
+
+    public double getHeight() {
+        return getPokemonSize().height() * size.getScale();
+    }
+
+    public double getWeight() {
+        return getPokemonSize().weight() * size.getScale();
+    }
 }

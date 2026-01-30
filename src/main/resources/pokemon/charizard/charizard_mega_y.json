@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KALOS",
   "types": ["FIRE", "FLYING"],
+  "size": {
+    "weight": 1.7,
+    "height": 100.5
+  },
   "baseStats": {
     "HP": 78,
     "ATK": 104,
@@ -16,7 +20,7 @@
     "SPD": 115,
     "SPE": 100
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "DROUGHT": 1
   },

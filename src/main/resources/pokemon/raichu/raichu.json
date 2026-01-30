@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KANTO",
   "types": ["ELECTRIC"],
+  "size": {
+    "weight": 0.8,
+    "height": 30
+  },
   "baseStats": {
     "HP": 60,
     "ATK": 90,
@@ -16,7 +20,7 @@
     "SPD": 80,
     "SPE": 110
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "STATIC": 99.5,
     "LIGHTING_ROD": 0.5

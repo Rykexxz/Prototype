@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KANTO",
   "types": ["GRASS", "POISON"],
+  "size": {
+    "weight": 1,
+    "height": 13
+  },
   "baseStats": {
     "HP": 60,
     "ATK": 62,
@@ -16,7 +20,7 @@
     "SPD": 80,
     "SPE": 60
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "OVERGROW": 99.5,
     "CHLOROPHYLL": 0.5

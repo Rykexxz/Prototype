@@ -19,8 +19,9 @@ public record PokemonSpeciesData(
         int baseFriendship,
         Generation generation,
         List<Type> types,
+        PhysicalSize size,
         Map<Stat, Integer> baseStats,
-        PokemonFlag pokemonFlag,
+        PokemonFlag flag,
         Map<Ability, Double> abilities,
         Map<Gender, Double> genders
 ) {
@@ -34,8 +35,9 @@ public record PokemonSpeciesData(
         System.out.println("BaseFriendship: " + baseFriendship);
         System.out.println("Generation: " + generation);
         System.out.println("Types: " + types);
+        size.print();
         System.out.println("BaseStats: " + baseStats);
-        System.out.println("PokemonFlag: " + pokemonFlag);
+        System.out.println("PokemonFlag: " + flag);
         System.out.println("Abilities: " + abilities);
         System.out.println("Genders: " + genders);
     }

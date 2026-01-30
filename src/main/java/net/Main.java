@@ -11,15 +11,14 @@ public class Main {
 
     public static void main(String[] args) {
         // Testando
-        // Muitos erros :[
 
-        PokemonSpeciesData p = PokemonRegistry.get(Species.CHARIZARD, Form.DEFAULT);
+        PokemonSpeciesData p = PokemonRegistry.get(Species.PIKACHU, Form.DEFAULT);
         Pokemon po = new PokemonBuilder()
                 .level(100)
                 .species(p)
                 .build();
-        p.print();
-        System.out.println();
+        po.getPokemonSize().print();
+        System.out.println("Level: " + po.getLevel());
         System.out.println("Gender: " + po.getGender());
         System.out.println("Ability: " + po.getAbility());
     }

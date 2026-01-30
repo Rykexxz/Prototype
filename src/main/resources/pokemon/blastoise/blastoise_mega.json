@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KALOS",
   "types": ["WATER"],
+  "size": {
+    "weight": 1.6,
+    "height": 101.1
+  },
   "baseStats": {
     "HP": 79,
     "ATK": 103,
@@ -16,7 +20,7 @@
     "SPD": 115,
     "SPE": 78
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "MEGA_LAUNCHER": 1
   },

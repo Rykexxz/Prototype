@@ -8,6 +8,10 @@
   "baseFriendship": 50,
   "generation": "KANTO",
   "types": ["WATER"],
+  "size": {
+    "weight": 0.5,
+    "height": 9
+  },
   "baseStats": {
     "HP": 44,
     "ATK": 48,
@@ -16,7 +20,7 @@
     "SPD": 64,
     "SPE": 43
   },
-  "pokemonFlag": "NORMAL",
+  "flag": "NORMAL",
   "abilities": {
     "TORRENT": 99.5,
     "RAIN_DISH": 0.5

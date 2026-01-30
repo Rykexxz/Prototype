@@ -1,6 +1,6 @@
 package net.pokeapi.pokemon.model;
 
-public enum PokemonSize {
+public enum Size {
     VERY_SMALL(0.6),
     SMALL(0.8),
     NORMAL(1),
@@ -9,7 +9,7 @@ public enum PokemonSize {
 
     private final double scale;
 
-    PokemonSize(double scale) {
+    Size(double scale) {
         this.scale = scale;
     }
 
