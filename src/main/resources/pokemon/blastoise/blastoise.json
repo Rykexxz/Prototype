@@ -1,0 +1,27 @@
+{
+  "species": "BLASTOISE",
+  "form": "DEFAULT",
+  "category": "SHELLFISH",
+  "dexNumber": 9,
+  "catchRate": 45,
+  "baseExp": 239,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["WATER"],
+  "baseStats": {
+    "HP": 79,
+    "ATK": 83,
+    "DEF": 100,
+    "SPA": 85,
+    "SPD": 105,
+    "SPE": 78
+  },
+  "abilities": {
+    "TORRENT": 99.5,
+    "RAIN_DISH": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

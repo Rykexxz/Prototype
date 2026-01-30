@@ -1,0 +1,27 @@
+{
+  "species": "PIKACHU",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 25,
+  "catchRate": 190,
+  "baseExp": 112,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["ELECTRIC"],
+  "baseStats": {
+    "HP": 35,
+    "ATK": 55,
+    "DEF": 40,
+    "SPA": 50,
+    "SPD": 50,
+    "SPE": 90
+  },
+  "abilities": {
+    "STATIC": 99.5,
+    "LIGHTING_ROD": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

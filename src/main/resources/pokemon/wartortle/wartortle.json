@@ -1,0 +1,27 @@
+{
+  "species": "WARTORTLE",
+  "form": "DEFAULT",
+  "category": "TURTLE",
+  "dexNumber": 8,
+  "catchRate": 45,
+  "baseExp": 142,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["WATER"],
+  "baseStats": {
+    "HP": 59,
+    "ATK": 63,
+    "DEF": 80,
+    "SPA": 65,
+    "SPD": 80,
+    "SPE": 58
+  },
+  "abilities": {
+    "TORRENT": 99.5,
+    "RAIN_DISH": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

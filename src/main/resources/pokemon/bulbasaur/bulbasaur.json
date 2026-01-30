@@ -1,0 +1,27 @@
+{
+  "species": "BULBASAUR",
+  "form": "DEFAULT",
+  "category": "SEED",
+  "dexNumber": 1,
+  "catchRate": 45,
+  "baseExp": 64,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["GRASS", "POISON"],
+  "baseStats": {
+    "HP": 45,
+    "ATK": 49,
+    "DEF": 49,
+    "SPA": 65,
+    "SPD": 65,
+    "SPE": 45
+  },
+  "abilities": {
+    "OVERGROW": 99.5,
+    "CHLOROPHYLL": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

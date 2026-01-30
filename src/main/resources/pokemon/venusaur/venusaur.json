@@ -1,0 +1,27 @@
+{
+  "species": "VENUSAUR",
+  "form": "DEFAULT",
+  "category": "SEED",
+  "dexNumber": 3,
+  "catchRate": 45,
+  "baseExp": 236,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["GRASS", "POISON"],
+  "baseStats": {
+    "HP": 80,
+    "ATK": 82,
+    "DEF": 83,
+    "SPA": 100,
+    "SPD": 100,
+    "SPE": 80
+  },
+  "abilities": {
+    "OVERGROW": 99.5,
+    "CHLOROPHYLL": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

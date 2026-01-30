@@ -1,0 +1,27 @@
+{
+  "species": "SQUIRTLE",
+  "form": "DEFAULT",
+  "category": "TINY_TURTLE",
+  "dexNumber": 7,
+  "catchRate": 45,
+  "baseExp": 63,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["WATER"],
+  "baseStats": {
+    "HP": 44,
+    "ATK": 48,
+    "DEF": 65,
+    "SPA": 50,
+    "SPD": 64,
+    "SPE": 43
+  },
+  "abilities": {
+    "TORRENT": 99.5,
+    "RAIN_DISH": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

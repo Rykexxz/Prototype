@@ -1,0 +1,27 @@
+{
+  "species": "IVYSAUR",
+  "form": "DEFAULT",
+  "category": "SEED",
+  "dexNumber": 2,
+  "catchRate": 45,
+  "baseExp": 142,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["GRASS", "POISON"],
+  "baseStats": {
+    "HP": 60,
+    "ATK": 62,
+    "DEF": 63,
+    "SPA": 80,
+    "SPD": 80,
+    "SPE": 60
+  },
+  "abilities": {
+    "OVERGROW": 99.5,
+    "CHLOROPHYLL": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

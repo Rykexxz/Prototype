@@ -1,0 +1,27 @@
+{
+  "species": "CHARMELEON",
+  "form": "DEFAULT",
+  "category": "FLAME",
+  "dexNumber": 5,
+  "catchRate": 45,
+  "baseExp": 142,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["FIRE"],
+  "baseStats": {
+    "HP": 58,
+    "ATK": 64,
+    "DEF": 58,
+    "SPA": 80,
+    "SPD": 65,
+    "SPE": 80
+  },
+  "abilities": {
+    "BLAZE": 99.5,
+    "SOLAR_POWER": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "species": "RAICHU",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 26,
+  "catchRate": 75,
+  "baseExp": 243,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["ELECTRIC"],
+  "baseStats": {
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 55,
+    "SPA": 90,
+    "SPD": 80,
+    "SPE": 110
+  },
+  "abilities": {
+    "STATIC": 99.5,
+    "LIGHTING_ROD": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

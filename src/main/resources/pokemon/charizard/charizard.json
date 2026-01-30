@@ -1,0 +1,27 @@
+{
+  "species": "CHARIZARD",
+  "form": "DEFAULT",
+  "category": "FLAME",
+  "dexNumber": 6,
+  "catchRate": 45,
+  "baseExp": 267,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["FIRE", "FLYING"],
+  "baseStats": {
+    "HP": 78,
+    "ATK": 84,
+    "DEF": 78,
+    "SPA": 109,
+    "SPD": 85,
+    "SPE": 100
+  },
+  "abilities": {
+    "BLAZE": 99.5,
+    "SOLAR_POWER": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

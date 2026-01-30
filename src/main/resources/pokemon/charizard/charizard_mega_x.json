@@ -1,0 +1,26 @@
+{
+  "species": "CHARIZARD",
+  "form": "MEGA_X",
+  "category": "FLAME",
+  "dexNumber": 6,
+  "catchRate": 45,
+  "baseExp": 267,
+  "baseFriendship": 50,
+  "generation": "KALOS",
+  "types": ["FIRE", "DRAGON"],
+  "baseStats": {
+    "HP": 78,
+    "ATK": 130,
+    "DEF": 111,
+    "SPA": 130,
+    "SPD": 85,
+    "SPE": 100
+  },
+  "abilities": {
+    "TOUGH_CLAWS": 1
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

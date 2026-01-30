@@ -1,0 +1,27 @@
+{
+  "species": "CHARMANDER",
+  "form": "DEFAULT",
+  "category": "LIZARD",
+  "dexNumber": 4,
+  "catchRate": 45,
+  "baseExp": 62,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["FIRE"],
+  "baseStats": {
+    "HP": 39,
+    "ATK": 52,
+    "DEF": 43,
+    "SPA": 60,
+    "SPD": 50,
+    "SPE": 65
+  },
+  "abilities": {
+    "BLAZE": 99.5,
+    "SOLAR_POWER": 0.5
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

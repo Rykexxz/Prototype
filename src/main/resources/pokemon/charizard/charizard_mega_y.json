@@ -1,0 +1,26 @@
+{
+  "species": "CHARIZARD",
+  "form": "MEGA_Y",
+  "category": "FLAME",
+  "dexNumber": 6,
+  "catchRate": 45,
+  "baseExp": 267,
+  "baseFriendship": 50,
+  "generation": "KALOS",
+  "types": ["FIRE", "FLYING"],
+  "baseStats": {
+    "HP": 78,
+    "ATK": 104,
+    "DEF": 78,
+    "SPA": 159,
+    "SPD": 115,
+    "SPE": 100
+  },
+  "abilities": {
+    "DROUGHT": 1
+  },
+  "genders": {
+    "MALE": 87.5,
+    "FEMALE": 12.5
+  }
+}

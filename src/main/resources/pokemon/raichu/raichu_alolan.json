@@ -1,0 +1,26 @@
+{
+  "species": "RAICHU",
+  "form": "ALOLAN",
+  "category": "MOUSE",
+  "dexNumber": 26,
+  "catchRate": 75,
+  "baseExp": 243,
+  "baseFriendship": 50,
+  "generation": "ALOLA",
+  "types": ["ELECTRIC", "PSYCHIC"],
+  "baseStats": {
+    "HP": 60,
+    "ATK": 90,
+    "DEF": 55,
+    "SPA": 90,
+    "SPD": 80,
+    "SPE": 110
+  },
+  "abilities": {
+    "SURGE_SURFER": 1
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}
