@@ -1,2 +1,2 @@
-# Protoótipo de Pokemon
-Eu estou tentando criar um jogo por diversão!
+# Protótipo de Pokemon
+Eu estou a tentar criar um jogo por diversão!

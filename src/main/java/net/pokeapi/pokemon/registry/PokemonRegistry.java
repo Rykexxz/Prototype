@@ -42,6 +42,7 @@ public final class PokemonRegistry {
             return;
         }
 
+        if (data == null) throw new RuntimeException("Data is null: " + path);
         SpeciesFormKey key = new SpeciesFormKey(
                 data.species(),
                 data.form()

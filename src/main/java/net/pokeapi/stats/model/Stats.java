@@ -4,7 +4,7 @@ import java.util.EnumMap;
 import java.util.Map;
 
 public class Stats {
-    protected EnumMap<Stat, Integer> stats;
+    protected final EnumMap<Stat, Integer> stats;
 
     public Stats() {
         stats = new EnumMap<>(Stat.class);
