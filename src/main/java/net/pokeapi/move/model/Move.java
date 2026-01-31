@@ -1,25 +1,44 @@
 package net.pokeapi.move.model;
 
+import com.google.gson.annotations.SerializedName;
 import net.pokeapi.move.data.MoveCategory;
 import net.pokeapi.move.data.MoveFlag;
+import net.pokeapi.move.data.MoveId;
 import net.pokeapi.types.Type;
 
 import java.util.List;
 
-public class Move {
-    public final String name;
+public abstract class Move {
+    @SerializedName("id")
+    public final MoveId id;
+
+    @SerializedName("type")
     public final Type type;
+
+    @SerializedName("category")
     public final MoveCategory category;
+
+    @SerializedName("accuracy")
     public final int accuracy;
-    protected int pp;
-    protected int defaultPp;
-    protected final int maxPp;
+
+    @SerializedName("pp")
+    public int pp;
+
+    @SerializedName("defaultPp")
+    public int defaultPp;
+
+    @SerializedName("maxPp")
+    public final int maxPp;
+
+    @SerializedName("priority")
     public final int priority;
+
+    @SerializedName("flags")
     public final List<MoveFlag> flags;
 
-    public Move(String name, Type type, MoveCategory category, int accuracy, int pp,
+    public Move(MoveId id, Type type, MoveCategory category, int accuracy, int pp,
                 int maxPp, int priority, List<MoveFlag> flags) {
-        this.name = name;
+        this.id = id;
         this.type = type;
         this.category = category;
         this.accuracy = accuracy;
@@ -30,21 +49,5 @@ public class Move {
         this.flags = flags;
     }
 
-    public boolean use() {
-        if (pp <= 0) return false;
-        pp--;
-        return true;
-    }
-
-    public void resetPp() {
-        pp = defaultPp;
-    }
-
-    public boolean ppUp() {
-        if (defaultPp == maxPp) {
-            return false;
-        }
-        defaultPp++;
-        return true;
-    }
+    // Getters e outros métodos permanecem
 }

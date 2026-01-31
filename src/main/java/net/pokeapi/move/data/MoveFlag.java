@@ -1,5 +1,8 @@
 package net.pokeapi.move.data;
 
 public enum MoveFlag {
-    CONTACT
+    CONTACT,
+    BITE,
+    SOUND,
+    SLASH
 }

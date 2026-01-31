@@ -1,0 +1,13 @@
+{
+  "id": "TACKLE",
+  "type": "NORMAL",
+  "category": "PHYSICAL",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "maxPp": 56,
+  "priority": 0,
+  "flags": [
+    "CONTACT"
+  ]
+}
