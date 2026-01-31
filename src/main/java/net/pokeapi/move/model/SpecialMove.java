@@ -23,9 +23,4 @@ public class SpecialMove extends DamageMove {
     public Stat getAttackStat() {
         return Stat.SPA;
     }
-
-    @Override
-    public Move clone() {
-        return new SpecialMove(name, type, power, accuracy, pp, maxPp, priority, flags);
-    }
 }

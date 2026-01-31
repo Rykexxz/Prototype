@@ -23,9 +23,4 @@ public class PhysicalMove extends DamageMove {
     public Stat getAttackStat() {
         return Stat.ATK;
     }
-
-    @Override
-    public Move clone() {
-        return new PhysicalMove(name, type, power, accuracy, pp, maxPp, priority, flags);
-    }
 }

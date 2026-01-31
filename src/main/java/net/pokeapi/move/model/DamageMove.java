@@ -19,6 +19,4 @@ public abstract class DamageMove extends Move {
     public abstract Stat getDefenseStat();
 
     public abstract Stat getAttackStat();
-
-    public abstract Move clone();
 }

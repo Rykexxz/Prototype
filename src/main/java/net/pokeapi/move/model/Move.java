@@ -6,7 +6,7 @@ import net.pokeapi.types.Type;
 
 import java.util.List;
 
-public abstract class Move {
+public class Move {
     public final String name;
     public final Type type;
     public final MoveCategory category;
@@ -47,6 +47,4 @@ public abstract class Move {
         defaultPp++;
         return true;
     }
-
-    public abstract Move clone();
 }
