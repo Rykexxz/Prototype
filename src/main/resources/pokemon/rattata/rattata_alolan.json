@@ -1,0 +1,33 @@
+{
+  "species": "RATTATA",
+  "form": "ALOLAN",
+  "category": "MOUSE",
+  "dexNumber": 19,
+  "catchRate": 255,
+  "baseExp": 51,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["NORMAL"],
+  "size": {
+    "weight": 0.3,
+    "height": 3.8
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 56,
+    "DEF": 35,
+    "SPA": 25,
+    "SPD": 35,
+    "SPE": 72
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "GUTS": 49.75,
+    "HUSTLE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

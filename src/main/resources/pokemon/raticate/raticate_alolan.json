@@ -1,0 +1,33 @@
+{
+  "species": "RATICATE",
+  "form": "ALOLAN",
+  "category": "MOUSE",
+  "dexNumber": 20,
+  "catchRate": 127,
+  "baseExp": 145,
+  "baseFriendship": 50,
+  "generation": "ALOLA",
+  "types": ["DARK", "NORMAL"],
+  "size": {
+    "weight": 0.7,
+    "height": 25.5
+  },
+  "baseStats": {
+    "HP": 75,
+    "ATK": 71,
+    "DEF": 70,
+    "SPA": 40,
+    "SPD": 80,
+    "SPE": 77
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "GUTS": 49.75,
+    "HUSTLE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

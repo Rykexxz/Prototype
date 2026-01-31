@@ -1,0 +1,33 @@
+{
+  "species": "PIDGEOT",
+  "form": "DEFAULT",
+  "category": "BIRD",
+  "dexNumber": 18,
+  "catchRate": 45,
+  "baseExp": 216,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["NORMAL", "FLYING"],
+  "size": {
+    "weight": 1.5,
+    "height": 39.5
+  },
+  "baseStats": {
+    "HP": 83,
+    "ATK": 80,
+    "DEF": 75,
+    "SPA": 70,
+    "SPD": 70,
+    "SPE": 101
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "KEEN_EYE": 49.75,
+    "TANGLED_FEET": 49.75,
+    "BIG_PECKS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

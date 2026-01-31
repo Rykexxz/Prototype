@@ -1,0 +1,32 @@
+{
+  "species": "BEEDRILL",
+  "form": "DEFAULT",
+  "category": "POISON_BEE",
+  "dexNumber": 15,
+  "catchRate": 45,
+  "baseExp": 178,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG", "POISON"],
+  "size": {
+    "weight": 1,
+    "height": 29.5
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 40,
+    "SPA": 45,
+    "SPD": 80,
+    "SPE": 75
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWARM": 99.5,
+    "SNIPER": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

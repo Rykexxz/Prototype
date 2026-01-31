@@ -1,0 +1,31 @@
+{
+  "species": "METAPOD",
+  "form": "DEFAULT",
+  "category": "COCOON",
+  "dexNumber": 11,
+  "catchRate": 120,
+  "baseExp": 72,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG"],
+  "size": {
+    "weight": 0.7,
+    "height": 9.9
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 20,
+    "DEF": 55,
+    "SPA": 25,
+    "SPD": 25,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHED_SKIN": 1
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

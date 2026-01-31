@@ -1,0 +1,32 @@
+{
+  "species": "CATERPIE",
+  "form": "DEFAULT",
+  "category": "WORM",
+  "dexNumber": 10,
+  "catchRate": 255,
+  "baseExp": 39,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG"],
+  "size": {
+    "weight": 0.3,
+    "height": 2.9
+  },
+  "baseStats": {
+    "HP": 45,
+    "ATK": 30,
+    "DEF": 35,
+    "SPA": 20,
+    "SPD": 20,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHIELD_DUST": 99.5,
+    "RUN_AWAY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

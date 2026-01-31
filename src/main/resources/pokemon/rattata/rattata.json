@@ -1,0 +1,33 @@
+{
+  "species": "RATTATA",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 19,
+  "catchRate": 255,
+  "baseExp": 51,
+  "baseFriendship": 50,
+  "generation": "ALOLA",
+  "types": ["DARK", "NORMAL"],
+  "size": {
+    "weight": 0.3,
+    "height": 3.8
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 56,
+    "DEF": 35,
+    "SPA": 25,
+    "SPD": 35,
+    "SPE": 72
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "GLUTTONY": 49.75,
+    "HUSTLE": 49.75,
+    "THICK_FAT": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

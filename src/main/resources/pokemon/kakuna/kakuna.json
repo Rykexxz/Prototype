@@ -1,0 +1,31 @@
+{
+  "species": "KAKUNA",
+  "form": "DEFAULT",
+  "category": "COCOON",
+  "dexNumber": 14,
+  "catchRate": 120,
+  "baseExp": 72,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG", "POISON"],
+  "size": {
+    "weight": 0.6,
+    "height": 10
+  },
+  "baseStats": {
+    "HP": 45,
+    "ATK": 25,
+    "DEF": 50,
+    "SPA": 25,
+    "SPD": 25,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHED_SKIN": 1
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

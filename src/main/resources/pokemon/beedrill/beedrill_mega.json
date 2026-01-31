@@ -1,0 +1,31 @@
+{
+  "species": "BEEDRILL",
+  "form": "MEGA",
+  "category": "POISON_BEE",
+  "dexNumber": 15,
+  "catchRate": 45,
+  "baseExp": 223,
+  "baseFriendship": 50,
+  "generation": "KALOS",
+  "types": ["BUG", "POISON"],
+  "size": {
+    "weight": 1.4,
+    "height": 40.5
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 150,
+    "DEF": 40,
+    "SPA": 15,
+    "SPD": 80,
+    "SPE": 145
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ADAPTABILITY": 1
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

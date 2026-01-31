@@ -1,0 +1,31 @@
+{
+  "species": "PIDGEOT",
+  "form": "MEGA",
+  "category": "BIRD",
+  "dexNumber": 18,
+  "catchRate": 45,
+  "baseExp": 261,
+  "baseFriendship": 50,
+  "generation": "KALOS",
+  "types": ["NORMAL", "FLYING"],
+  "size": {
+    "weight": 2.2,
+    "height": 50.5
+  },
+  "baseStats": {
+    "HP": 83,
+    "ATK": 80,
+    "DEF": 80,
+    "SPA": 135,
+    "SPD": 80,
+    "SPE": 121
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "NO_GUARD": 1
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "species": "WEEDLE",
+  "form": "DEFAULT",
+  "category": "HAIRY_BUG",
+  "dexNumber": 13,
+  "catchRate": 255,
+  "baseExp": 39,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG", "POISON"],
+  "size": {
+    "weight": 0.3,
+    "height": 3.2
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 35,
+    "DEF": 30,
+    "SPA": 20,
+    "SPD": 20,
+    "SPE": 50
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHIELD_DUST": 99.5,
+    "RUN_AWAY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

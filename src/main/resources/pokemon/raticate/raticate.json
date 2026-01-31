@@ -1,0 +1,33 @@
+{
+  "species": "RATICATE",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 20,
+  "catchRate": 127,
+  "baseExp": 145,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["NORMAL"],
+  "size": {
+    "weight": 0.7,
+    "height": 18.5
+  },
+  "baseStats": {
+    "HP": 63,
+    "ATK": 60,
+    "DEF": 55,
+    "SPA": 50,
+    "SPD": 50,
+    "SPE": 71
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "GUTS": 49.75,
+    "HUSTLE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

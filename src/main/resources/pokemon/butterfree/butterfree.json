@@ -1,0 +1,32 @@
+{
+  "species": "BUTTERFREE",
+  "form": "DEFAULT",
+  "category": "BUTTERFLY",
+  "dexNumber": 12,
+  "catchRate": 45,
+  "baseExp": 178,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["BUG", "FLYING"],
+  "size": {
+    "weight": 1.1,
+    "height": 32
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 45,
+    "DEF": 50,
+    "SPA": 90,
+    "SPD": 80,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "COMPOUND_EYES": 99.5,
+    "TINTED_LENS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}
