@@ -2,7 +2,6 @@ package net.pokeapi.io;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import net.pokeapi.move.io.MoveAdapter;
 import net.pokeapi.move.model.Move;
 
 import java.io.Reader;
@@ -12,7 +11,6 @@ import java.nio.file.Path;
 public final class JsonDeserializer {
 
     private static final Gson GSON = new GsonBuilder()
-            .registerTypeAdapter(Move.class, new MoveAdapter())
             .create();
 
     private JsonDeserializer() {
