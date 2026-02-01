@@ -2,8 +2,8 @@ package net.pokeapi.pokemon.model;
 
 import net.pokeapi.ability.Ability;
 import net.pokeapi.gender.Gender;
-import net.pokeapi.pokemon.species.PokemonFlag;
 import net.pokeapi.pokemon.species.PhysicalSize;
+import net.pokeapi.pokemon.species.PokemonFlag;
 import net.pokeapi.pokemon.species.PokemonSpeciesData;
 import net.pokeapi.stats.calc.StatsCalculator;
 import net.pokeapi.stats.model.Nature;

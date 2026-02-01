@@ -8,7 +8,18 @@ public enum Category {
     TINY_TURTLE,
     TURTLE,
     SHELLFISH,
-    MOUSE;
+    WORM,
+    COCOON,
+    BUTTERFLY,
+    HAIRY_BUG,
+    POISON_BEE,
+    TINY_BIRD,
+    BIRD,
+    MOUSE,
+    BEAK,
+    SNAKE,
+    COBRA
+    ;
 
     @Override
     public String toString() {

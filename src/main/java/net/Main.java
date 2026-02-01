@@ -11,8 +11,9 @@ public class Main {
 
     public static void main(String[] args) {
         // Testando
+        PokemonRegistry.init();
 
-        PokemonSpeciesData p = PokemonRegistry.get(Species.PIKACHU, Form.DEFAULT);
+        PokemonSpeciesData p = PokemonRegistry.get(Species.MEW, Form.DEFAULT);
         Pokemon po = new PokemonBuilder()
                 .level(100)
                 .species(p)

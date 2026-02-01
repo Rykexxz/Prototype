@@ -13,12 +13,12 @@
     "height": 18.5
   },
   "baseStats": {
-    "HP": 63,
-    "ATK": 60,
-    "DEF": 55,
+    "HP": 55,
+    "ATK": 81,
+    "DEF": 60,
     "SPA": 50,
-    "SPD": 50,
-    "SPE": 71
+    "SPD": 70,
+    "SPE": 96
   },
   "pokemonFlag": "NORMAL",
   "abilities": {

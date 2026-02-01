@@ -1,8 +1,9 @@
 package net.pokeapi.pokemon.species;
 
 public enum PokemonFlag {
-    NORMAL,
     UNKNOWN,
+    NORMAL,
+    BABY,
     LEGENDARY,
     MYTHICAL,
     ULTRA_BEAST;

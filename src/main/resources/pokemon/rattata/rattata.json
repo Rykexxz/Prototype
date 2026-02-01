@@ -6,8 +6,8 @@
   "catchRate": 255,
   "baseExp": 51,
   "baseFriendship": 50,
-  "generation": "ALOLA",
-  "types": ["DARK", "NORMAL"],
+  "generation": "KANTO",
+  "types": ["NORMAL"],
   "size": {
     "weight": 0.3,
     "height": 3.8
@@ -22,9 +22,9 @@
   },
   "pokemonFlag": "NORMAL",
   "abilities": {
-    "GLUTTONY": 49.75,
-    "HUSTLE": 49.75,
-    "THICK_FAT": 0.5
+    "RUN_AWAY": 49.75,
+    "GUTS": 49.75,
+    "HUSTLE": 0.5
   },
   "genders": {
     "MALE": 50,

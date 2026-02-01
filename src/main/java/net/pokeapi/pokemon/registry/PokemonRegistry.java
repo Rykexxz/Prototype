@@ -14,13 +14,16 @@ import java.util.Map;
 
 public final class PokemonRegistry {
 
+    public static boolean on = false;
     public static final Map<SpeciesFormKey, PokemonSpeciesData> DATA = new HashMap<>();
 
     private PokemonRegistry() { }
 
-    static {
-        loadAll(Path.of("src/main/resources/pokemon"));
-        System.out.println(DATA);
+    public static void init() {
+        if (!on) {
+            loadAll(Path.of("src/main/resources/pokemon"));
+            on = true;
+        }
     }
 
     public static void loadAll(Path folder) {
