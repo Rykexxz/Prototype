@@ -1,0 +1,35 @@
+{
+  "species": "PONYTA",
+  "form": "DEFAULT",
+  "category": "FIRE_HORSE",
+  "dexNumber": 77,
+  "catchRate": 190,
+  "baseExp": 82,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 30.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 85,
+    "DEF": 55,
+    "SPA": 65,
+    "SPD": 65,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "FLASH_FIRE": 49.75,
+    "FLAME_BODY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

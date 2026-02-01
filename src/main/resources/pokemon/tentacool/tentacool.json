@@ -1,0 +1,36 @@
+{
+  "species": "TENTACOOL",
+  "form": "DEFAULT",
+  "category": "JELLYFISH",
+  "dexNumber": 72,
+  "catchRate": 190,
+  "baseExp": 67,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "POISON"
+  ],
+  "size": {
+    "weight": 45.5,
+    "height": 0.9
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 40,
+    "DEF": 35,
+    "SPA": 50,
+    "SPD": 100,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CLEAR_BODY": 49.75,
+    "LIQUID_OOZE": 49.75,
+    "RAIN_DISH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

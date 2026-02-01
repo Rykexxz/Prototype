@@ -1,0 +1,36 @@
+{
+  "species": "MR-MIME",
+  "form": "DEFAULT",
+  "category": "BARRIER",
+  "dexNumber": 122,
+  "catchRate": 45,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC",
+    "FAIRY"
+  ],
+  "size": {
+    "weight": 54.5,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 65,
+    "SPA": 100,
+    "SPD": 120,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SOUNDPROOF": 49.75,
+    "FILTER": 49.75,
+    "TECHNICIAN": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

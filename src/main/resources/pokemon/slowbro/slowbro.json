@@ -1,0 +1,36 @@
+{
+  "species": "SLOWBRO",
+  "form": "DEFAULT",
+  "category": "HERMIT_CRAB",
+  "dexNumber": 80,
+  "catchRate": 75,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 78.5,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 95,
+    "ATK": 75,
+    "DEF": 110,
+    "SPA": 100,
+    "SPD": 80,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "OBLIVIOUS": 49.75,
+    "OWN_TEMPO": 49.75,
+    "REGENERATOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

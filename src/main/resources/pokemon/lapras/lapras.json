@@ -1,0 +1,36 @@
+{
+  "species": "LAPRAS",
+  "form": "DEFAULT",
+  "category": "TRANSPORT",
+  "dexNumber": 131,
+  "catchRate": 45,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "ICE"
+  ],
+  "size": {
+    "weight": 220.0,
+    "height": 2.5
+  },
+  "baseStats": {
+    "HP": 130,
+    "ATK": 85,
+    "DEF": 80,
+    "SPA": 85,
+    "SPD": 95,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "WATER_ABSORB": 49.75,
+    "SHELL_ARMOR": 49.75,
+    "HYDRATION": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

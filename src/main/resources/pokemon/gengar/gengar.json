@@ -1,0 +1,34 @@
+{
+  "species": "GENGAR",
+  "form": "DEFAULT",
+  "category": "SHADOW",
+  "dexNumber": 94,
+  "catchRate": 45,
+  "baseExp": 225,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GHOST",
+    "POISON"
+  ],
+  "size": {
+    "weight": 40.5,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 60,
+    "SPA": 130,
+    "SPD": 75,
+    "SPE": 110
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CURSED_BODY": 100.0
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "HITMONCHAN",
+  "form": "DEFAULT",
+  "category": "PUNCHING",
+  "dexNumber": 107,
+  "catchRate": 45,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 50.2,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 105,
+    "DEF": 79,
+    "SPA": 35,
+    "SPD": 110,
+    "SPE": 76
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "KEEN_EYE": 49.75,
+    "IRON_FIST": 49.75,
+    "INNER_FOCUS": 0.5
+  },
+  "genders": {
+    "MALE": 100,
+    "FEMALE": 0
+  }
+}

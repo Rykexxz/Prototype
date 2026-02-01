@@ -1,0 +1,35 @@
+{
+  "species": "DUGTRIO",
+  "form": "DEFAULT",
+  "category": "MOLE",
+  "dexNumber": 51,
+  "catchRate": 50,
+  "baseExp": 149,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 33.3,
+    "height": 0.7
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 100,
+    "DEF": 50,
+    "SPA": 50,
+    "SPD": 70,
+    "SPE": 120
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SAND_VEIL": 49.75,
+    "ARENA_TRAP": 49.75,
+    "SAND_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

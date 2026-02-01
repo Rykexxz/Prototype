@@ -1,0 +1,35 @@
+{
+  "species": "MAROWAK",
+  "form": "DEFAULT",
+  "category": "BONE_KEEPER",
+  "dexNumber": 105,
+  "catchRate": 75,
+  "baseExp": 149,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 45.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 80,
+    "DEF": 110,
+    "SPA": 50,
+    "SPD": 80,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "LIGHTNING_ROD": 49.75,
+    "BATTLE_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

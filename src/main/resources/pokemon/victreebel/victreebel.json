@@ -1,0 +1,35 @@
+{
+  "species": "VICTREEBEL",
+  "form": "DEFAULT",
+  "category": "FLYCATCHER",
+  "dexNumber": 71,
+  "catchRate": 45,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 15.5,
+    "height": 1.7
+  },
+  "baseStats": {
+    "HP": 80,
+    "ATK": 105,
+    "DEF": 65,
+    "SPA": 100,
+    "SPD": 70,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "GLUTTONY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "species": "WIGGLYTUFF",
+  "form": "DEFAULT",
+  "category": "BALLOON",
+  "dexNumber": 40,
+  "catchRate": 50,
+  "baseExp": 196,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL",
+    "FAIRY"
+  ],
+  "size": {
+    "weight": 12.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 140,
+    "ATK": 70,
+    "DEF": 45,
+    "SPA": 85,
+    "SPD": 50,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CUTE_CHARM": 49.75,
+    "COMPETITIVE": 49.75,
+    "FRISK": 0.5
+  },
+  "genders": {
+    "MALE": 25,
+    "FEMALE": 75
+  }
+}

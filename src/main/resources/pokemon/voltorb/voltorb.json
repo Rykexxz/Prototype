@@ -1,0 +1,34 @@
+{
+  "species": "VOLTORB",
+  "form": "DEFAULT",
+  "category": "BALL",
+  "dexNumber": 100,
+  "catchRate": 190,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ELECTRIC"
+  ],
+  "size": {
+    "weight": 10.4,
+    "height": 0.5
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 30,
+    "DEF": 50,
+    "SPA": 55,
+    "SPD": 55,
+    "SPE": 100
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SOUNDPROOF": 49.75,
+    "STATIC": 49.75,
+    "AFTERMATH": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

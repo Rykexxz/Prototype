@@ -1,0 +1,36 @@
+{
+  "species": "NIDOKING",
+  "form": "DEFAULT",
+  "category": "DRILL",
+  "dexNumber": 34,
+  "catchRate": 45,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 62.0,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 81,
+    "ATK": 102,
+    "DEF": 77,
+    "SPA": 85,
+    "SPD": 75,
+    "SPE": 85
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "POISON_POINT": 49.75,
+    "RIVALRY": 49.75,
+    "SHEER_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 100,
+    "FEMALE": 0
+  }
+}

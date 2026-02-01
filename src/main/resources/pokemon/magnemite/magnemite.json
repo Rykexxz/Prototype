@@ -1,0 +1,35 @@
+{
+  "species": "MAGNEMITE",
+  "form": "DEFAULT",
+  "category": "MAGNET",
+  "dexNumber": 81,
+  "catchRate": 190,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "size": {
+    "weight": 6.0,
+    "height": 0.3
+  },
+  "baseStats": {
+    "HP": 25,
+    "ATK": 35,
+    "DEF": 70,
+    "SPA": 95,
+    "SPD": 55,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "MAGNET_PULL": 49.75,
+    "STURDY": 49.75,
+    "ANALYTIC": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

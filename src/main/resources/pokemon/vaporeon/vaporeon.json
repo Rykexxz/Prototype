@@ -1,0 +1,34 @@
+{
+  "species": "VAPOREON",
+  "form": "DEFAULT",
+  "category": "BUBBLE_JET",
+  "dexNumber": 134,
+  "catchRate": 45,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 29.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 130,
+    "ATK": 65,
+    "DEF": 60,
+    "SPA": 110,
+    "SPD": 95,
+    "SPE": 65
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "WATER_ABSORB": 99.5,
+    "HYDRATION": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

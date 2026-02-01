@@ -1,0 +1,35 @@
+{
+  "species": "POLIWAG",
+  "form": "DEFAULT",
+  "category": "TADPOLE",
+  "dexNumber": 60,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 12.4,
+    "height": 0.6
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 50,
+    "DEF": 40,
+    "SPA": 40,
+    "SPD": 40,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "WATER_ABSORB": 49.75,
+    "DAMP": 49.75,
+    "SWIFT_SWIM": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

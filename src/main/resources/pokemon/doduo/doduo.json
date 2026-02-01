@@ -1,0 +1,36 @@
+{
+  "species": "DODUO",
+  "form": "DEFAULT",
+  "category": "TWIN_BIRD",
+  "dexNumber": 84,
+  "catchRate": 190,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 39.2,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 85,
+    "DEF": 45,
+    "SPA": 35,
+    "SPD": 35,
+    "SPE": 75
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "EARLY_BIRD": 49.75,
+    "TANGLED_FEET": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

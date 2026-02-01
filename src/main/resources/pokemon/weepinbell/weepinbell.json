@@ -1,0 +1,35 @@
+{
+  "species": "WEEPINBELL",
+  "form": "DEFAULT",
+  "category": "FLYCATCHER",
+  "dexNumber": 70,
+  "catchRate": 120,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 6.4,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 50,
+    "SPA": 85,
+    "SPD": 45,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "GLUTTONY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

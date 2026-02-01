@@ -1,0 +1,35 @@
+{
+  "species": "GOLDEEN",
+  "form": "DEFAULT",
+  "category": "GOLDFISH",
+  "dexNumber": 118,
+  "catchRate": 225,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 15.0,
+    "height": 0.6
+  },
+  "baseStats": {
+    "HP": 45,
+    "ATK": 67,
+    "DEF": 60,
+    "SPA": 35,
+    "SPD": 50,
+    "SPE": 63
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWIFT_SWIM": 49.75,
+    "WATER_VEIL": 49.75,
+    "LIGHTNING_ROD": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

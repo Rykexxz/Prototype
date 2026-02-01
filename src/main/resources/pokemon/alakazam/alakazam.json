@@ -1,0 +1,35 @@
+{
+  "species": "ALAKAZAM",
+  "form": "DEFAULT",
+  "category": "PSI",
+  "dexNumber": 65,
+  "catchRate": 50,
+  "baseExp": 225,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 48.0,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 50,
+    "DEF": 45,
+    "SPA": 135,
+    "SPD": 95,
+    "SPE": 120
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SYNCHRONIZE": 49.75,
+    "INNER_FOCUS": 49.75,
+    "MAGIC_GUARD": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

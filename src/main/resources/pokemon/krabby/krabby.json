@@ -1,0 +1,35 @@
+{
+  "species": "KRABBY",
+  "form": "DEFAULT",
+  "category": "RIVER_CRAB",
+  "dexNumber": 98,
+  "catchRate": 225,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 6.5,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 105,
+    "DEF": 90,
+    "SPA": 25,
+    "SPD": 25,
+    "SPE": 50
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "HYPER_CUTTER": 49.75,
+    "SHELL_ARMOR": 49.75,
+    "SHEER_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

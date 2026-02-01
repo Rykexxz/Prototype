@@ -1,0 +1,35 @@
+{
+  "species": "EEVEE",
+  "form": "DEFAULT",
+  "category": "EVOLUTION",
+  "dexNumber": 133,
+  "catchRate": 45,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 6.5,
+    "height": 0.3
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 55,
+    "DEF": 50,
+    "SPA": 45,
+    "SPD": 65,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "ADAPTABILITY": 49.75,
+    "ANTICIPATION": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

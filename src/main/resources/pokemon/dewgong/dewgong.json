@@ -1,0 +1,36 @@
+{
+  "species": "DEWGONG",
+  "form": "DEFAULT",
+  "category": "SEA_LION",
+  "dexNumber": 87,
+  "catchRate": 75,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "ICE"
+  ],
+  "size": {
+    "weight": 120.0,
+    "height": 1.7
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 70,
+    "DEF": 80,
+    "SPA": 70,
+    "SPD": 95,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "THICK_FAT": 49.75,
+    "HYDRATION": 49.75,
+    "ICE_BODY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

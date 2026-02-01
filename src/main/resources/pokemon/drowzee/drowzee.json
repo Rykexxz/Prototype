@@ -1,0 +1,35 @@
+{
+  "species": "DROWZEE",
+  "form": "DEFAULT",
+  "category": "HYPNOSIS",
+  "dexNumber": 96,
+  "catchRate": 190,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 32.4,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 48,
+    "DEF": 45,
+    "SPA": 43,
+    "SPD": 90,
+    "SPE": 42
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INSOMNIA": 49.75,
+    "FOREWARN": 49.75,
+    "INNER_FOCUS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "species": "MEW",
+  "form": "DEFAULT",
+  "category": "NEW_SPECIES",
+  "dexNumber": 151,
+  "catchRate": 45,
+  "baseExp": 270,
+  "baseFriendship": 100,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 4.0,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 100,
+    "ATK": 100,
+    "DEF": 100,
+    "SPA": 100,
+    "SPD": 100,
+    "SPE": 100
+  },
+  "pokemonFlag": "MYTHICAL",
+  "abilities": {
+    "SYNCHRONIZE": 100.0
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

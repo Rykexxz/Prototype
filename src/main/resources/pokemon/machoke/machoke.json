@@ -1,0 +1,35 @@
+{
+  "species": "MACHOKE",
+  "form": "DEFAULT",
+  "category": "SUPERPOWER",
+  "dexNumber": 67,
+  "catchRate": 90,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 70.5,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 80,
+    "ATK": 100,
+    "DEF": 70,
+    "SPA": 50,
+    "SPD": 60,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "GUTS": 49.75,
+    "NO_GUARD": 49.75,
+    "STEADFAST": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "EXEGGUTOR",
+  "form": "DEFAULT",
+  "category": "COCONUT",
+  "dexNumber": 103,
+  "catchRate": 45,
+  "baseExp": 186,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 120.0,
+    "height": 2.0
+  },
+  "baseStats": {
+    "HP": 95,
+    "ATK": 95,
+    "DEF": 85,
+    "SPA": 125,
+    "SPD": 75,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "HARVEST": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

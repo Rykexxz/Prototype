@@ -1,0 +1,36 @@
+{
+  "species": "KABUTO",
+  "form": "DEFAULT",
+  "category": "SHELLFISH",
+  "dexNumber": 140,
+  "catchRate": 45,
+  "baseExp": 71,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "WATER"
+  ],
+  "size": {
+    "weight": 11.5,
+    "height": 0.5
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 80,
+    "DEF": 90,
+    "SPA": 55,
+    "SPD": 45,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWIFT_SWIM": 49.75,
+    "BATTLE_ARMOR": 49.75,
+    "WEAK_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

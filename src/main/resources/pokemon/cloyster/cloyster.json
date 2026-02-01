@@ -1,0 +1,36 @@
+{
+  "species": "CLOYSTER",
+  "form": "DEFAULT",
+  "category": "BIVALVE",
+  "dexNumber": 91,
+  "catchRate": 60,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "ICE"
+  ],
+  "size": {
+    "weight": 132.5,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 95,
+    "DEF": 180,
+    "SPA": 85,
+    "SPD": 45,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHELL_ARMOR": 49.75,
+    "SKILL_LINK": 49.75,
+    "OVERCOAT": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

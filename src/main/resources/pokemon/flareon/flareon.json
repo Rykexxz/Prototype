@@ -1,0 +1,34 @@
+{
+  "species": "FLAREON",
+  "form": "DEFAULT",
+  "category": "FLAME",
+  "dexNumber": 136,
+  "catchRate": 45,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 25.0,
+    "height": 0.9
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 130,
+    "DEF": 60,
+    "SPA": 95,
+    "SPD": 110,
+    "SPE": 65
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "FLASH_FIRE": 99.5,
+    "GUTS": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

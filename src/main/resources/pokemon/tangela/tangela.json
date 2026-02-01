@@ -1,0 +1,35 @@
+{
+  "species": "TANGELA",
+  "form": "DEFAULT",
+  "category": "VINE",
+  "dexNumber": 114,
+  "catchRate": 45,
+  "baseExp": 87,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS"
+  ],
+  "size": {
+    "weight": 35.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 55,
+    "DEF": 115,
+    "SPA": 100,
+    "SPD": 40,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 49.75,
+    "LEAF_GUARD": 49.75,
+    "REGENERATOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

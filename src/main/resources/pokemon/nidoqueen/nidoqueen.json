@@ -1,0 +1,36 @@
+{
+  "species": "NIDOQUEEN",
+  "form": "DEFAULT",
+  "category": "DRILL",
+  "dexNumber": 31,
+  "catchRate": 45,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 60.0,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 92,
+    "DEF": 87,
+    "SPA": 75,
+    "SPD": 85,
+    "SPE": 76
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "POISON_POINT": 49.75,
+    "RIVALRY": 49.75,
+    "SHEER_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 0,
+    "FEMALE": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "POLIWHIRL",
+  "form": "DEFAULT",
+  "category": "TADPOLE",
+  "dexNumber": 61,
+  "catchRate": 120,
+  "baseExp": 135,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 20.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 65,
+    "DEF": 65,
+    "SPA": 50,
+    "SPD": 50,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "WATER_ABSORB": 49.75,
+    "DAMP": 49.75,
+    "SWIFT_SWIM": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

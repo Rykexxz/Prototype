@@ -1,0 +1,36 @@
+{
+  "species": "VENONAT",
+  "form": "DEFAULT",
+  "category": "INSECT",
+  "dexNumber": 48,
+  "catchRate": 190,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG",
+    "POISON"
+  ],
+  "size": {
+    "weight": 30.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 55,
+    "DEF": 50,
+    "SPA": 40,
+    "SPD": 55,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "COMPOUND_EYES": 49.75,
+    "TINTED_LENS": 49.75,
+    "RUN_AWAY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

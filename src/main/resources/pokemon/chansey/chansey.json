@@ -1,0 +1,35 @@
+{
+  "species": "CHANSEY",
+  "form": "DEFAULT",
+  "category": "EGG",
+  "dexNumber": 113,
+  "catchRate": 30,
+  "baseExp": 395,
+  "baseFriendship": 140,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 34.6,
+    "height": 1.1
+  },
+  "baseStats": {
+    "HP": 250,
+    "ATK": 5,
+    "DEF": 5,
+    "SPA": 35,
+    "SPD": 105,
+    "SPE": 50
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "NATURAL_CURE": 49.75,
+    "SERENE_GRACE": 49.75,
+    "HEALER": 0.5
+  },
+  "genders": {
+    "MALE": 0,
+    "FEMALE": 100
+  }
+}

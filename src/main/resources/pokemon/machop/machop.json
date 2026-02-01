@@ -1,0 +1,35 @@
+{
+  "species": "MACHOP",
+  "form": "DEFAULT",
+  "category": "SUPERPOWER",
+  "dexNumber": 66,
+  "catchRate": 180,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 19.5,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 70,
+    "ATK": 80,
+    "DEF": 50,
+    "SPA": 35,
+    "SPD": 35,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "GUTS": 49.75,
+    "NO_GUARD": 49.75,
+    "STEADFAST": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

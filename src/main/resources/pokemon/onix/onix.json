@@ -1,0 +1,36 @@
+{
+  "species": "ONIX",
+  "form": "DEFAULT",
+  "category": "ROCK_SNAKE",
+  "dexNumber": 95,
+  "catchRate": 45,
+  "baseExp": 77,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 210.0,
+    "height": 8.8
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 45,
+    "DEF": 160,
+    "SPA": 30,
+    "SPD": 45,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "STURDY": 49.75,
+    "WEAK_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

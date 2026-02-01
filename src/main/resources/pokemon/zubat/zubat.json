@@ -1,0 +1,35 @@
+{
+  "species": "ZUBAT",
+  "form": "DEFAULT",
+  "category": "BAT",
+  "dexNumber": 41,
+  "catchRate": 255,
+  "baseExp": 49,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 7.5,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 45,
+    "DEF": 35,
+    "SPA": 30,
+    "SPD": 40,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INNER_FOCUS": 99.5,
+    "INFILTRATOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

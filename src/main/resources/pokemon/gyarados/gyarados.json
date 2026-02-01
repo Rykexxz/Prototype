@@ -1,0 +1,35 @@
+{
+  "species": "GYARADOS",
+  "form": "DEFAULT",
+  "category": "ATROCIOUS",
+  "dexNumber": 130,
+  "catchRate": 45,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 235.0,
+    "height": 6.5
+  },
+  "baseStats": {
+    "HP": 95,
+    "ATK": 125,
+    "DEF": 79,
+    "SPA": 60,
+    "SPD": 100,
+    "SPE": 81
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDATE": 99.5,
+    "MOXIE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

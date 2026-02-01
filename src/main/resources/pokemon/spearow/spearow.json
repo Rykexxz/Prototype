@@ -1,0 +1,32 @@
+{
+  "species": "SPEAROW",
+  "form": "DEFAULT",
+  "category": "TINY_BIRD",
+  "dexNumber": 21,
+  "catchRate": 255,
+  "baseExp": 52,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["NORMAL", "FLYING"],
+  "size": {
+    "weight": 0.3,
+    "height": 2
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 60,
+    "DEF": 30,
+    "SPA": 31,
+    "SPD": 31,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "KEEN_EYE": 99.5,
+    "SNIPER": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

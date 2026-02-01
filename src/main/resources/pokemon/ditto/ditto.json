@@ -1,0 +1,33 @@
+{
+  "species": "DITTO",
+  "form": "DEFAULT",
+  "category": "TRANSFORM",
+  "dexNumber": 132,
+  "catchRate": 35,
+  "baseExp": 101,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 4.0,
+    "height": 0.3
+  },
+  "baseStats": {
+    "HP": 48,
+    "ATK": 48,
+    "DEF": 48,
+    "SPA": 48,
+    "SPD": 48,
+    "SPE": 48
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LIMBER": 99.5,
+    "IMPOSTER": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

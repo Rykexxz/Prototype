@@ -1,0 +1,36 @@
+{
+  "species": "SLOWPOKE",
+  "form": "DEFAULT",
+  "category": "DOPEY",
+  "dexNumber": 79,
+  "catchRate": 190,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 36.0,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 65,
+    "DEF": 65,
+    "SPA": 40,
+    "SPD": 40,
+    "SPE": 15
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "OBLIVIOUS": 49.75,
+    "OWN_TEMPO": 49.75,
+    "REGENERATOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

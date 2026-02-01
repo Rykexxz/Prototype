@@ -1,0 +1,35 @@
+{
+  "species": "ABRA",
+  "form": "DEFAULT",
+  "category": "PSI",
+  "dexNumber": 63,
+  "catchRate": 200,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 19.5,
+    "height": 0.9
+  },
+  "baseStats": {
+    "HP": 25,
+    "ATK": 20,
+    "DEF": 15,
+    "SPA": 105,
+    "SPD": 55,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SYNCHRONIZE": 49.75,
+    "INNER_FOCUS": 49.75,
+    "MAGIC_GUARD": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

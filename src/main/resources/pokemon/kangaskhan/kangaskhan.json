@@ -1,0 +1,35 @@
+{
+  "species": "KANGASKHAN",
+  "form": "DEFAULT",
+  "category": "PARENT",
+  "dexNumber": 115,
+  "catchRate": 45,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 80.0,
+    "height": 2.2
+  },
+  "baseStats": {
+    "HP": 105,
+    "ATK": 95,
+    "DEF": 80,
+    "SPA": 40,
+    "SPD": 80,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "EARLY_BIRD": 49.75,
+    "SCRAPPY": 49.75,
+    "INNER_FOCUS": 0.5
+  },
+  "genders": {
+    "MALE": 0,
+    "FEMALE": 100
+  }
+}

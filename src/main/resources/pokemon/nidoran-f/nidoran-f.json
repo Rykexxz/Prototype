@@ -1,0 +1,35 @@
+{
+  "species": "NIDORAN-F",
+  "form": "DEFAULT",
+  "category": "POISON_PIN",
+  "dexNumber": 29,
+  "catchRate": 235,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 7.0,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 47,
+    "DEF": 52,
+    "SPA": 40,
+    "SPD": 40,
+    "SPE": 41
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "POISON_POINT": 49.75,
+    "RIVALRY": 49.75,
+    "HUSTLE": 0.5
+  },
+  "genders": {
+    "MALE": 0,
+    "FEMALE": 100
+  }
+}

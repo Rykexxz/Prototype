@@ -1,0 +1,36 @@
+{
+  "species": "PARAS",
+  "form": "DEFAULT",
+  "category": "MUSHROOM",
+  "dexNumber": 46,
+  "catchRate": 190,
+  "baseExp": 57,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG",
+    "GRASS"
+  ],
+  "size": {
+    "weight": 5.4,
+    "height": 0.3
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 70,
+    "DEF": 55,
+    "SPA": 45,
+    "SPD": 55,
+    "SPE": 25
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "EFFECT_SPORE": 49.75,
+    "DRY_SKIN": 49.75,
+    "DAMP": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

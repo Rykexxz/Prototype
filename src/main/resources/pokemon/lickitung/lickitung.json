@@ -1,0 +1,35 @@
+{
+  "species": "LICKITUNG",
+  "form": "DEFAULT",
+  "category": "LICKING",
+  "dexNumber": 108,
+  "catchRate": 45,
+  "baseExp": 77,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 65.5,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 55,
+    "DEF": 75,
+    "SPA": 60,
+    "SPD": 75,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "OWN_TEMPO": 49.75,
+    "OBLIVIOUS": 49.75,
+    "CLOUD_NINE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

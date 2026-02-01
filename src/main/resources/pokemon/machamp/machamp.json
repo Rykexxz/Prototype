@@ -1,0 +1,35 @@
+{
+  "species": "MACHAMP",
+  "form": "DEFAULT",
+  "category": "SUPERPOWER",
+  "dexNumber": 68,
+  "catchRate": 45,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 130.0,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 130,
+    "DEF": 80,
+    "SPA": 65,
+    "SPD": 85,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "GUTS": 49.75,
+    "NO_GUARD": 49.75,
+    "STEADFAST": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

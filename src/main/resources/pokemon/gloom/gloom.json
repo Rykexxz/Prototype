@@ -1,0 +1,35 @@
+{
+  "species": "GLOOM",
+  "form": "DEFAULT",
+  "category": "WEED",
+  "dexNumber": 44,
+  "catchRate": 120,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 8.6,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 65,
+    "DEF": 70,
+    "SPA": 85,
+    "SPD": 75,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "STENCH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "MUK",
+  "form": "DEFAULT",
+  "category": "SLUDGE",
+  "dexNumber": 89,
+  "catchRate": 75,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 30.0,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 105,
+    "ATK": 105,
+    "DEF": 75,
+    "SPA": 65,
+    "SPD": 100,
+    "SPE": 50
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "STENCH": 49.75,
+    "STICKY_HOLD": 49.75,
+    "POISON_TOUCH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

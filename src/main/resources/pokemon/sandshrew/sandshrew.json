@@ -1,0 +1,34 @@
+  {
+  "species": "SANDSHREW",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 27,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 12.0,
+    "height": 0.6
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 85,
+    "SPA": 20,
+    "SPD": 30,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SAND_VEIL": 99.5,
+    "SAND_RUSH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "PINSIR",
+  "form": "DEFAULT",
+  "category": "STAG_BEETLE",
+  "dexNumber": 127,
+  "catchRate": 45,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG"
+  ],
+  "size": {
+    "weight": 55.0,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 125,
+    "DEF": 100,
+    "SPA": 55,
+    "SPD": 70,
+    "SPE": 85
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "HYPER_CUTTER": 49.75,
+    "MOLD_BREAKER": 49.75,
+    "MOXIE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

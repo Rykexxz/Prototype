@@ -1,0 +1,34 @@
+{
+  "species": "NINETALES",
+  "form": "DEFAULT",
+  "category": "FOX",
+  "dexNumber": 38,
+  "catchRate": 75,
+  "baseExp": 177,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 19.9,
+    "height": 1.1
+  },
+  "baseStats": {
+    "HP": 73,
+    "ATK": 76,
+    "DEF": 75,
+    "SPA": 81,
+    "SPD": 100,
+    "SPE": 100
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "FLASH_FIRE": 99.5,
+    "DROUGHT": 0.5
+  },
+  "genders": {
+    "MALE": 25,
+    "FEMALE": 75
+  }
+}

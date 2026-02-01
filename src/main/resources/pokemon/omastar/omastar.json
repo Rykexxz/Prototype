@@ -1,0 +1,36 @@
+{
+  "species": "OMASTAR",
+  "form": "DEFAULT",
+  "category": "SPIRAL",
+  "dexNumber": 139,
+  "catchRate": 45,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "WATER"
+  ],
+  "size": {
+    "weight": 35.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 70,
+    "ATK": 60,
+    "DEF": 125,
+    "SPA": 115,
+    "SPD": 70,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWIFT_SWIM": 49.75,
+    "SHELL_ARMOR": 49.75,
+    "WEAK_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

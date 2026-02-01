@@ -1,0 +1,36 @@
+{
+  "species": "JIGGLYPUFF",
+  "form": "DEFAULT",
+  "category": "BALLOON",
+  "dexNumber": 39,
+  "catchRate": 170,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL",
+    "FAIRY"
+  ],
+  "size": {
+    "weight": 5.5,
+    "height": 0.5
+  },
+  "baseStats": {
+    "HP": 115,
+    "ATK": 45,
+    "DEF": 20,
+    "SPA": 45,
+    "SPD": 25,
+    "SPE": 20
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CUTE_CHARM": 49.75,
+    "COMPETITIVE": 49.75,
+    "FRIEND_GUARD": 0.5
+  },
+  "genders": {
+    "MALE": 25,
+    "FEMALE": 75
+  }
+}

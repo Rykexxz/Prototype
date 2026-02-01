@@ -1,0 +1,34 @@
+{
+  "species": "PORYGON",
+  "form": "DEFAULT",
+  "category": "VIRTUAL",
+  "dexNumber": 137,
+  "catchRate": 45,
+  "baseExp": 79,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 36.5,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 60,
+    "DEF": 70,
+    "SPA": 85,
+    "SPD": 75,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "TRACE": 49.75,
+    "DOWNLOAD": 49.75,
+    "ANALYTIC": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "species": "RHYHORN",
+  "form": "DEFAULT",
+  "category": "SPIKES",
+  "dexNumber": 111,
+  "catchRate": 120,
+  "baseExp": 69,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND",
+    "ROCK"
+  ],
+  "size": {
+    "weight": 115.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 80,
+    "ATK": 85,
+    "DEF": 95,
+    "SPA": 30,
+    "SPD": 30,
+    "SPE": 25
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LIGHTNING_ROD": 49.75,
+    "ROCK_HEAD": 49.75,
+    "RECKLESS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

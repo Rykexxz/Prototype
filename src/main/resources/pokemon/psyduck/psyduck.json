@@ -1,0 +1,35 @@
+{
+  "species": "PSYDUCK",
+  "form": "DEFAULT",
+  "category": "DUCK",
+  "dexNumber": 54,
+  "catchRate": 190,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 19.6,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 52,
+    "DEF": 48,
+    "SPA": 65,
+    "SPD": 50,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "DAMP": 49.75,
+    "CLOUD_NINE": 49.75,
+    "SWIFT_SWIM": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "species": "OMANYTE",
+  "form": "DEFAULT",
+  "category": "SPIRAL",
+  "dexNumber": 138,
+  "catchRate": 45,
+  "baseExp": 71,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "WATER"
+  ],
+  "size": {
+    "weight": 7.5,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 40,
+    "DEF": 100,
+    "SPA": 90,
+    "SPD": 55,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWIFT_SWIM": 49.75,
+    "SHELL_ARMOR": 49.75,
+    "WEAK_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}

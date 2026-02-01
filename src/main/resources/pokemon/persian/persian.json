@@ -1,0 +1,35 @@
+{
+  "species": "PERSIAN",
+  "form": "DEFAULT",
+  "category": "CLASSY_CAT",
+  "dexNumber": 53,
+  "catchRate": 90,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 32.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 70,
+    "DEF": 60,
+    "SPA": 65,
+    "SPD": 65,
+    "SPE": 115
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LIMBER": 49.75,
+    "TECHNICIAN": 49.75,
+    "UNNERVE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

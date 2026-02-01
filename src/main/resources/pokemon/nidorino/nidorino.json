@@ -1,0 +1,35 @@
+{
+  "species": "NIDORINO",
+  "form": "DEFAULT",
+  "category": "POISON_PIN",
+  "dexNumber": 33,
+  "catchRate": 120,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 19.5,
+    "height": 0.9
+  },
+  "baseStats": {
+    "HP": 61,
+    "ATK": 72,
+    "DEF": 57,
+    "SPA": 55,
+    "SPD": 55,
+    "SPE": 65
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "POISON_POINT": 49.75,
+    "RIVALRY": 49.75,
+    "HUSTLE": 0.5
+  },
+  "genders": {
+    "MALE": 100,
+    "FEMALE": 0
+  }
+}

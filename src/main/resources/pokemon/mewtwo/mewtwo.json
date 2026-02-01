@@ -1,0 +1,33 @@
+{
+  "species": "MEWTWO",
+  "form": "DEFAULT",
+  "category": "GENETIC",
+  "dexNumber": 150,
+  "catchRate": 3,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 122.0,
+    "height": 2.0
+  },
+  "baseStats": {
+    "HP": 106,
+    "ATK": 110,
+    "DEF": 90,
+    "SPA": 154,
+    "SPD": 90,
+    "SPE": 130
+  },
+  "pokemonFlag": "LEGENDARY",
+  "abilities": {
+    "PRESSURE": 99.5,
+    "UNNERVE": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

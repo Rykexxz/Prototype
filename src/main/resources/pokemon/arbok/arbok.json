@@ -1,0 +1,33 @@
+{
+  "species": "ARBOK",
+  "form": "DEFAULT",
+  "category": "COBRA",
+  "dexNumber": 24,
+  "catchRate": 90,
+  "baseExp": 157 ,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["POISON"],
+  "size": {
+    "weight": 3.5,
+    "height": 65
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 95,
+    "DEF": 69,
+    "SPA": 65,
+    "SPD": 79,
+    "SPE": 80
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDADE": 49.75,
+    "SHED_SKIN": 49.75,
+    "UNNERVE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

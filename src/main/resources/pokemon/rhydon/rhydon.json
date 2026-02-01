@@ -1,0 +1,36 @@
+{
+  "species": "RHYDON",
+  "form": "DEFAULT",
+  "category": "DRILL",
+  "dexNumber": 112,
+  "catchRate": 60,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND",
+    "ROCK"
+  ],
+  "size": {
+    "weight": 120.0,
+    "height": 1.9
+  },
+  "baseStats": {
+    "HP": 105,
+    "ATK": 130,
+    "DEF": 120,
+    "SPA": 45,
+    "SPD": 45,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LIGHTNING_ROD": 49.75,
+    "ROCK_HEAD": 49.75,
+    "RECKLESS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "WEEZING",
+  "form": "DEFAULT",
+  "category": "POISON_GAS",
+  "dexNumber": 110,
+  "catchRate": 60,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 9.5,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 120,
+    "SPA": 85,
+    "SPD": 70,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LEVITATE": 49.75,
+    "NEUTRALIZING_GAS": 49.75,
+    "STENCH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

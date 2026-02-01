@@ -1,0 +1,35 @@
+{
+  "species": "HYPNO",
+  "form": "DEFAULT",
+  "category": "HYPNOSIS",
+  "dexNumber": 97,
+  "catchRate": 75,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 75.6,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 85,
+    "ATK": 73,
+    "DEF": 70,
+    "SPA": 73,
+    "SPD": 115,
+    "SPE": 67
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INSOMNIA": 49.75,
+    "FOREWARN": 49.75,
+    "INNER_FOCUS": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

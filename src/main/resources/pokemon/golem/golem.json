@@ -1,0 +1,36 @@
+{
+  "species": "GOLEM",
+  "form": "DEFAULT",
+  "category": "MEGATON",
+  "dexNumber": 76,
+  "catchRate": 45,
+  "baseExp": 223,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 300.0,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 80,
+    "ATK": 120,
+    "DEF": 130,
+    "SPA": 55,
+    "SPD": 65,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "STURDY": 49.75,
+    "SAND_VEIL": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

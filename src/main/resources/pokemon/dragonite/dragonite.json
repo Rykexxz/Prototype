@@ -1,0 +1,35 @@
+{
+  "species": "DRAGONITE",
+  "form": "DEFAULT",
+  "category": "DRAGON",
+  "dexNumber": 149,
+  "catchRate": 45,
+  "baseExp": 270,
+  "baseFriendship": 35,
+  "generation": "KANTO",
+  "types": [
+    "DRAGON",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 210.0,
+    "height": 2.2
+  },
+  "baseStats": {
+    "HP": 91,
+    "ATK": 134,
+    "DEF": 95,
+    "SPA": 100,
+    "SPD": 100,
+    "SPE": 80
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INNER_FOCUS": 99.5,
+    "MULTISCALE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

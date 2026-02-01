@@ -1,0 +1,36 @@
+{
+  "species": "JYNX",
+  "form": "DEFAULT",
+  "category": "HUMAN_SHAPE",
+  "dexNumber": 124,
+  "catchRate": 45,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ICE",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 40.6,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 50,
+    "DEF": 35,
+    "SPA": 115,
+    "SPD": 95,
+    "SPE": 95
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "OBLIVIOUS": 49.75,
+    "FOREWARN": 49.75,
+    "DRY_SKIN": 0.5
+  },
+  "genders": {
+    "MALE": 0,
+    "FEMALE": 100
+  }
+}

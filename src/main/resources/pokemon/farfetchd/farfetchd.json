@@ -1,0 +1,36 @@
+{
+  "species": "FARFETCHD",
+  "form": "DEFAULT",
+  "category": "WILD_DUCK",
+  "dexNumber": 83,
+  "catchRate": 45,
+  "baseExp": 132,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 15.0,
+    "height": 0.8
+  },
+  "baseStats": {
+    "HP": 52,
+    "ATK": 90,
+    "DEF": 55,
+    "SPA": 58,
+    "SPD": 62,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "KEEN_EYE": 49.75,
+    "INNER_FOCUS": 49.75,
+    "DEFIANT": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

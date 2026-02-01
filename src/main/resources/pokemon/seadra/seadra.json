@@ -1,0 +1,35 @@
+{
+  "species": "SEADRA",
+  "form": "DEFAULT",
+  "category": "DRAGON",
+  "dexNumber": 117,
+  "catchRate": 75,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 25.0,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 65,
+    "DEF": 95,
+    "SPA": 95,
+    "SPD": 45,
+    "SPE": 85
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "POISON_POINT": 49.75,
+    "SNIPER": 49.75,
+    "DAMP": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

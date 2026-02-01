@@ -1,0 +1,35 @@
+{
+  "species": "VILEPLUME",
+  "form": "DEFAULT",
+  "category": "FLOWER",
+  "dexNumber": 45,
+  "catchRate": 45,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 18.6,
+    "height": 1.2
+  },
+  "baseStats": {
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 85,
+    "SPA": 110,
+    "SPD": 90,
+    "SPE": 50
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "EFFECT_SPORE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

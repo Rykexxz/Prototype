@@ -1,0 +1,35 @@
+{
+  "species": "HORSEA",
+  "form": "DEFAULT",
+  "category": "DRAGON",
+  "dexNumber": 116,
+  "catchRate": 225,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 8.0,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 40,
+    "DEF": 70,
+    "SPA": 70,
+    "SPD": 25,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWIFT_SWIM": 49.75,
+    "SNIPER": 49.75,
+    "DAMP": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

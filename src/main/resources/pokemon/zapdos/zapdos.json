@@ -1,0 +1,34 @@
+{
+  "species": "ZAPDOS",
+  "form": "DEFAULT",
+  "category": "ELECTRIC",
+  "dexNumber": 145,
+  "catchRate": 3,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "generation": "KANTO",
+  "types": [
+    "ELECTRIC",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 52.6,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 90,
+    "DEF": 85,
+    "SPA": 125,
+    "SPD": 90,
+    "SPE": 100
+  },
+  "pokemonFlag": "LEGENDARY",
+  "abilities": {
+    "PRESSURE": 99.5,
+    "STATIC": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

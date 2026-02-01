@@ -1,0 +1,35 @@
+{
+  "species": "SHELLDER",
+  "form": "DEFAULT",
+  "category": "BIVALVE",
+  "dexNumber": 90,
+  "catchRate": 190,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 4.0,
+    "height": 0.3
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 65,
+    "DEF": 100,
+    "SPA": 45,
+    "SPD": 25,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHELL_ARMOR": 49.75,
+    "SKILL_LINK": 49.75,
+    "OVERCOAT": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

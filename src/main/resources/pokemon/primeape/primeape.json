@@ -1,0 +1,35 @@
+{
+  "species": "PRIMEAPE",
+  "form": "DEFAULT",
+  "category": "PIG_MONKEY",
+  "dexNumber": 57,
+  "catchRate": 75,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 32.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 105,
+    "DEF": 60,
+    "SPA": 60,
+    "SPD": 70,
+    "SPE": 95
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "VITAL_SPIRIT": 49.75,
+    "ANGER_POINT": 49.75,
+    "DEFIANT": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

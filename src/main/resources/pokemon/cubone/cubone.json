@@ -1,0 +1,35 @@
+{
+  "species": "CUBONE",
+  "form": "DEFAULT",
+  "category": "LONELY",
+  "dexNumber": 104,
+  "catchRate": 190,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 6.5,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 50,
+    "DEF": 95,
+    "SPA": 40,
+    "SPD": 50,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "LIGHTNING_ROD": 49.75,
+    "BATTLE_ARMOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

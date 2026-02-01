@@ -1,0 +1,36 @@
+{
+  "species": "DODRIO",
+  "form": "DEFAULT",
+  "category": "TRIPLE_BIRD",
+  "dexNumber": 85,
+  "catchRate": 45,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 85.2,
+    "height": 1.8
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 110,
+    "DEF": 70,
+    "SPA": 60,
+    "SPD": 60,
+    "SPE": 110
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "EARLY_BIRD": 49.75,
+    "TANGLED_FEET": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "GROWLITHE",
+  "form": "DEFAULT",
+  "category": "PUPPY",
+  "dexNumber": 58,
+  "catchRate": 190,
+  "baseExp": 70,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 19.0,
+    "height": 0.7
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 70,
+    "DEF": 45,
+    "SPA": 70,
+    "SPD": 50,
+    "SPE": 60
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDATE": 49.75,
+    "FLASH_FIRE": 49.75,
+    "JUSTIFIED": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

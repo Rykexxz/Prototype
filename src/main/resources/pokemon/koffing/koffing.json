@@ -1,0 +1,35 @@
+{
+  "species": "KOFFING",
+  "form": "DEFAULT",
+  "category": "POISON_GAS",
+  "dexNumber": 109,
+  "catchRate": 190,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 1.0,
+    "height": 0.6
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 65,
+    "DEF": 95,
+    "SPA": 60,
+    "SPD": 45,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LEVITATE": 49.75,
+    "NEUTRALIZING_GAS": 49.75,
+    "STENCH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

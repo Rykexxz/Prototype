@@ -1,0 +1,35 @@
+{
+  "species": "GOLBAT",
+  "form": "DEFAULT",
+  "category": "BAT",
+  "dexNumber": 42,
+  "catchRate": 90,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 55.0,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 75,
+    "ATK": 80,
+    "DEF": 70,
+    "SPA": 65,
+    "SPD": 75,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INNER_FOCUS": 99.5,
+    "INFILTRATOR": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

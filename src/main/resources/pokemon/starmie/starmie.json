@@ -1,0 +1,35 @@
+{
+  "species": "STARMIE",
+  "form": "DEFAULT",
+  "category": "MYSTERIOUS",
+  "dexNumber": 121,
+  "catchRate": 60,
+  "baseExp": 182,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 80.0,
+    "height": 1.1
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 75,
+    "DEF": 85,
+    "SPA": 100,
+    "SPD": 85,
+    "SPE": 115
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ILLUMINATE": 49.75,
+    "NATURAL_CURE": 49.75,
+    "ANALYTIC": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

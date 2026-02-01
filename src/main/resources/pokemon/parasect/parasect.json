@@ -1,0 +1,36 @@
+{
+  "species": "PARASECT",
+  "form": "DEFAULT",
+  "category": "MUSHROOM",
+  "dexNumber": 47,
+  "catchRate": 75,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG",
+    "GRASS"
+  ],
+  "size": {
+    "weight": 29.5,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 95,
+    "DEF": 80,
+    "SPA": 60,
+    "SPD": 80,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "EFFECT_SPORE": 49.75,
+    "DRY_SKIN": 49.75,
+    "DAMP": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

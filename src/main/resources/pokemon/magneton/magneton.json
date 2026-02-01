@@ -1,0 +1,35 @@
+{
+  "species": "MAGNETON",
+  "form": "DEFAULT",
+  "category": "MAGNET",
+  "dexNumber": 82,
+  "catchRate": 60,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ELECTRIC",
+    "STEEL"
+  ],
+  "size": {
+    "weight": 60.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 60,
+    "DEF": 95,
+    "SPA": 120,
+    "SPD": 70,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "MAGNET_PULL": 49.75,
+    "STURDY": 49.75,
+    "ANALYTIC": 0.5
+  },
+  "genders": {
+    "GENDERLESS": 100
+  }
+}

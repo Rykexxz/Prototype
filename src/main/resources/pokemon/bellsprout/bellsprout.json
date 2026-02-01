@@ -1,0 +1,35 @@
+{
+  "species": "BELLSPROUT",
+  "form": "DEFAULT",
+  "category": "FLOWER",
+  "dexNumber": 69,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 4.0,
+    "height": 0.7
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 75,
+    "DEF": 35,
+    "SPA": 70,
+    "SPD": 30,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "GLUTTONY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

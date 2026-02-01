@@ -1,0 +1,36 @@
+{
+  "species": "VENOMOTH",
+  "form": "DEFAULT",
+  "category": "POISON_MOTH",
+  "dexNumber": 49,
+  "catchRate": 75,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG",
+    "POISON"
+  ],
+  "size": {
+    "weight": 12.5,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 70,
+    "ATK": 65,
+    "DEF": 60,
+    "SPA": 90,
+    "SPD": 75,
+    "SPE": 90
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SHIELD_DUST": 49.75,
+    "TINTED_LENS": 49.75,
+    "WONDER_SKIN": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

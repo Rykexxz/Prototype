@@ -1,0 +1,35 @@
+{
+  "species": "EXEGGCUTE",
+  "form": "DEFAULT",
+  "category": "EGG",
+  "dexNumber": 102,
+  "catchRate": 90,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 2.5,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 60,
+    "ATK": 40,
+    "DEF": 80,
+    "SPA": 60,
+    "SPD": 45,
+    "SPE": 40
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "HARVEST": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

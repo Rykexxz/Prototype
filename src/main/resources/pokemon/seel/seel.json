@@ -1,0 +1,35 @@
+{
+  "species": "SEEL",
+  "form": "DEFAULT",
+  "category": "SEA_LION",
+  "dexNumber": 86,
+  "catchRate": 190,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 90.0,
+    "height": 1.1
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 45,
+    "DEF": 55,
+    "SPA": 45,
+    "SPD": 70,
+    "SPE": 45
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "THICK_FAT": 49.75,
+    "HYDRATION": 49.75,
+    "ICE_BODY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

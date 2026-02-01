@@ -1,0 +1,36 @@
+{
+  "species": "GRAVELER",
+  "form": "DEFAULT",
+  "category": "ROCK",
+  "dexNumber": 75,
+  "catchRate": 120,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 105.0,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 95,
+    "DEF": 115,
+    "SPA": 45,
+    "SPD": 45,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "STURDY": 49.75,
+    "SAND_VEIL": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

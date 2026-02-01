@@ -1,0 +1,33 @@
+{
+  "species": "EKANS",
+  "form": "DEFAULT",
+  "category": "SNAKE",
+  "dexNumber": 23,
+  "catchRate": 255,
+  "baseExp": 58 ,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["POISON"],
+  "size": {
+    "weight": 2,
+    "height": 6.9
+  },
+  "baseStats": {
+    "HP": 35,
+    "ATK": 60,
+    "DEF": 44,
+    "SPA": 40,
+    "SPD": 54,
+    "SPE": 55
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDADE": 49.75,
+    "SHED_SKIN": 49.75,
+    "UNNERVE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

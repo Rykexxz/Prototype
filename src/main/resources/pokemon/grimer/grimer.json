@@ -1,0 +1,35 @@
+{
+  "species": "GRIMER",
+  "form": "DEFAULT",
+  "category": "SLUDGE",
+  "dexNumber": 88,
+  "catchRate": 190,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "POISON"
+  ],
+  "size": {
+    "weight": 30.0,
+    "height": 0.9
+  },
+  "baseStats": {
+    "HP": 80,
+    "ATK": 80,
+    "DEF": 50,
+    "SPA": 40,
+    "SPD": 50,
+    "SPE": 25
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "STENCH": 49.75,
+    "STICKY_HOLD": 49.75,
+    "POISON_TOUCH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

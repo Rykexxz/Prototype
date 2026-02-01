@@ -1,0 +1,35 @@
+{
+  "species": "ODDISH",
+  "form": "DEFAULT",
+  "category": "WEED",
+  "dexNumber": 43,
+  "catchRate": 255,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "size": {
+    "weight": 5.4,
+    "height": 0.5
+  },
+  "baseStats": {
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 55,
+    "SPA": 75,
+    "SPD": 65,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CHLOROPHYLL": 99.5,
+    "RUN_AWAY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

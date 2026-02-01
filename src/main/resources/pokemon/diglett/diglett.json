@@ -1,0 +1,35 @@
+{
+  "species": "DIGLETT",
+  "form": "DEFAULT",
+  "category": "MOLE",
+  "dexNumber": 50,
+  "catchRate": 255,
+  "baseExp": 53,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 0.8,
+    "height": 0.2
+  },
+  "baseStats": {
+    "HP": 10,
+    "ATK": 55,
+    "DEF": 25,
+    "SPA": 35,
+    "SPD": 45,
+    "SPE": 95
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SAND_VEIL": 49.75,
+    "ARENA_TRAP": 49.75,
+    "SAND_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "CLEFAIRY",
+  "form": "DEFAULT",
+  "category": "FAIRY",
+  "dexNumber": 35,
+  "catchRate": 150,
+  "baseExp": 113,
+  "baseFriendship": 140,
+  "generation": "KANTO",
+  "types": [
+    "FAIRY"
+  ],
+  "size": {
+    "weight": 7.5,
+    "height": 0.6
+  },
+  "baseStats": {
+    "HP": 70,
+    "ATK": 45,
+    "DEF": 48,
+    "SPA": 60,
+    "SPD": 65,
+    "SPE": 35
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "CUTE_CHARM": 49.75,
+    "MAGIC_GUARD": 49.75,
+    "FRIEND_GUARD": 0.5
+  },
+  "genders": {
+    "MALE": 25,
+    "FEMALE": 75
+  }
+}

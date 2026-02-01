@@ -1,0 +1,35 @@
+{
+  "species": "ARCANINE",
+  "form": "DEFAULT",
+  "category": "LEGENDARY",
+  "dexNumber": 59,
+  "catchRate": 75,
+  "baseExp": 194,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 155.0,
+    "height": 1.9
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 110,
+    "DEF": 80,
+    "SPA": 100,
+    "SPD": 80,
+    "SPE": 95
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDATE": 49.75,
+    "FLASH_FIRE": 49.75,
+    "JUSTIFIED": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

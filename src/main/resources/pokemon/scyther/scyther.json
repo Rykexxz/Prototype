@@ -1,0 +1,36 @@
+{
+  "species": "SCYTHER",
+  "form": "DEFAULT",
+  "category": "MANTIS",
+  "dexNumber": 123,
+  "catchRate": 45,
+  "baseExp": 100,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "BUG",
+    "FLYING"
+  ],
+  "size": {
+    "weight": 56.0,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 70,
+    "ATK": 110,
+    "DEF": 80,
+    "SPA": 55,
+    "SPD": 80,
+    "SPE": 105
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SWARM": 49.75,
+    "TECHNICIAN": 49.75,
+    "STEADFAST": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

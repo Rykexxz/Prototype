@@ -1,0 +1,35 @@
+{
+  "species": "KINGLER",
+  "form": "DEFAULT",
+  "category": "PINCER",
+  "dexNumber": 99,
+  "catchRate": 60,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER"
+  ],
+  "size": {
+    "weight": 60.0,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 55,
+    "ATK": 130,
+    "DEF": 115,
+    "SPA": 50,
+    "SPD": 50,
+    "SPE": 75
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "HYPER_CUTTER": 49.75,
+    "SHELL_ARMOR": 49.75,
+    "SHEER_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

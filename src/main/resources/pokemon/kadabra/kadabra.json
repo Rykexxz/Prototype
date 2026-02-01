@@ -1,0 +1,35 @@
+{
+  "species": "KADABRA",
+  "form": "DEFAULT",
+  "category": "PSI",
+  "dexNumber": 64,
+  "catchRate": 100,
+  "baseExp": 140,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "PSYCHIC"
+  ],
+  "size": {
+    "weight": 56.5,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 35,
+    "DEF": 30,
+    "SPA": 120,
+    "SPD": 70,
+    "SPE": 105
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SYNCHRONIZE": 49.75,
+    "INNER_FOCUS": 49.75,
+    "MAGIC_GUARD": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

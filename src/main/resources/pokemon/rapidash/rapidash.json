@@ -1,0 +1,35 @@
+{
+  "species": "RAPIDASH",
+  "form": "DEFAULT",
+  "category": "FIRE_HORSE",
+  "dexNumber": 78,
+  "catchRate": 60,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 95.0,
+    "height": 1.7
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 100,
+    "DEF": 70,
+    "SPA": 80,
+    "SPD": 80,
+    "SPE": 105
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "RUN_AWAY": 49.75,
+    "FLASH_FIRE": 49.75,
+    "FLAME_BODY": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

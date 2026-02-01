@@ -1,0 +1,34 @@
+{
+  "species": "GASTLY",
+  "form": "DEFAULT",
+  "category": "GAS",
+  "dexNumber": 92,
+  "catchRate": 190,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GHOST",
+    "POISON"
+  ],
+  "size": {
+    "weight": 0.1,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 30,
+    "ATK": 35,
+    "DEF": 30,
+    "SPA": 100,
+    "SPD": 35,
+    "SPE": 80
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LEVITATE": 100.0
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

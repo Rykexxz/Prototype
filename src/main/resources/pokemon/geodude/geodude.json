@@ -1,0 +1,36 @@
+{
+  "species": "GEODUDE",
+  "form": "DEFAULT",
+  "category": "ROCK",
+  "dexNumber": 74,
+  "catchRate": 255,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "ROCK",
+    "GROUND"
+  ],
+  "size": {
+    "weight": 20.0,
+    "height": 0.4
+  },
+  "baseStats": {
+    "HP": 40,
+    "ATK": 80,
+    "DEF": 100,
+    "SPA": 30,
+    "SPD": 30,
+    "SPE": 20
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "ROCK_HEAD": 49.75,
+    "STURDY": 49.75,
+    "SAND_VEIL": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

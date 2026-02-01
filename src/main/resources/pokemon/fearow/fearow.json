@@ -1,0 +1,32 @@
+{
+  "species": "FEAROW",
+  "form": "DEFAULT",
+  "category": "BEAK",
+  "dexNumber": 22,
+  "catchRate": 90,
+  "baseExp": 155,
+  "baseFriendship": 50,
+  "generation": "KANTO",
+  "types": ["NORMAL", "FLYING"],
+  "size": {
+    "weight": 1.2,
+    "height": 38
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 90,
+    "DEF": 65,
+    "SPA": 61,
+    "SPD": 61,
+    "SPE": 100
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "KEEN_EYE": 99.5,
+    "SNIPER": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "species": "POLIWRATH",
+  "form": "DEFAULT",
+  "category": "TADPOLE",
+  "dexNumber": 62,
+  "catchRate": 45,
+  "baseExp": 230,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "WATER",
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 54.0,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 90,
+    "ATK": 95,
+    "DEF": 95,
+    "SPA": 70,
+    "SPD": 90,
+    "SPE": 70
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "WATER_ABSORB": 49.75,
+    "DAMP": 49.75,
+    "SWIFT_SWIM": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

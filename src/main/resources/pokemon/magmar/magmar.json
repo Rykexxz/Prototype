@@ -1,0 +1,34 @@
+{
+  "species": "MAGMAR",
+  "form": "DEFAULT",
+  "category": "SPITFIRE",
+  "dexNumber": 126,
+  "catchRate": 45,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIRE"
+  ],
+  "size": {
+    "weight": 44.5,
+    "height": 1.3
+  },
+  "baseStats": {
+    "HP": 65,
+    "ATK": 95,
+    "DEF": 57,
+    "SPA": 100,
+    "SPD": 85,
+    "SPE": 93
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "FLAME_BODY": 99.5,
+    "VITAL_SPIRIT": 0.5
+  },
+  "genders": {
+    "MALE": 75,
+    "FEMALE": 25
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "species": "HITMONLEE",
+  "form": "DEFAULT",
+  "category": "KICKING",
+  "dexNumber": 106,
+  "catchRate": 45,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "FIGHTING"
+  ],
+  "size": {
+    "weight": 49.8,
+    "height": 1.5
+  },
+  "baseStats": {
+    "HP": 50,
+    "ATK": 120,
+    "DEF": 53,
+    "SPA": 35,
+    "SPD": 110,
+    "SPE": 87
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LIMBER": 49.75,
+    "RECKLESS": 49.75,
+    "UNBURDEN": 0.5
+  },
+  "genders": {
+    "MALE": 100,
+    "FEMALE": 0
+  }
+}

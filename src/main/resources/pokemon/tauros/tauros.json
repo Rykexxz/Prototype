@@ -1,0 +1,35 @@
+{
+  "species": "TAUROS",
+  "form": "DEFAULT",
+  "category": "WILD_BULL",
+  "dexNumber": 128,
+  "catchRate": 45,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 88.4,
+    "height": 1.4
+  },
+  "baseStats": {
+    "HP": 75,
+    "ATK": 100,
+    "DEF": 95,
+    "SPA": 40,
+    "SPD": 70,
+    "SPE": 110
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "INTIMIDATE": 49.75,
+    "ANGER_POINT": 49.75,
+    "SHEER_FORCE": 0.5
+  },
+  "genders": {
+    "MALE": 100,
+    "FEMALE": 0
+  }
+}

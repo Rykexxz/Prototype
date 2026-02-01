@@ -1,0 +1,34 @@
+{
+  "species": "HAUNTER",
+  "form": "DEFAULT",
+  "category": "GAS",
+  "dexNumber": 93,
+  "catchRate": 90,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GHOST",
+    "POISON"
+  ],
+  "size": {
+    "weight": 0.1,
+    "height": 1.6
+  },
+  "baseStats": {
+    "HP": 45,
+    "ATK": 50,
+    "DEF": 45,
+    "SPA": 115,
+    "SPD": 55,
+    "SPE": 95
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "LEVITATE": 100.0
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

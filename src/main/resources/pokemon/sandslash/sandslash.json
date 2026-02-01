@@ -1,0 +1,34 @@
+{
+  "species": "SANDSLASH",
+  "form": "DEFAULT",
+  "category": "MOUSE",
+  "dexNumber": 28,
+  "catchRate": 90,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "GROUND"
+  ],
+  "size": {
+    "weight": 29.5,
+    "height": 1.0
+  },
+  "baseStats": {
+    "HP": 75,
+    "ATK": 100,
+    "DEF": 110,
+    "SPA": 45,
+    "SPD": 55,
+    "SPE": 65
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "SAND_VEIL": 99.5,
+    "SAND_RUSH": 0.5
+  },
+  "genders": {
+    "MALE": 50,
+    "FEMALE": 50
+  }
+}

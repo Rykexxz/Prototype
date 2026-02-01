@@ -1,0 +1,35 @@
+{
+  "species": "SNORLAX",
+  "form": "DEFAULT",
+  "category": "SLEEPING",
+  "dexNumber": 143,
+  "catchRate": 25,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "generation": "KANTO",
+  "types": [
+    "NORMAL"
+  ],
+  "size": {
+    "weight": 460.0,
+    "height": 2.1
+  },
+  "baseStats": {
+    "HP": 160,
+    "ATK": 110,
+    "DEF": 65,
+    "SPA": 65,
+    "SPD": 110,
+    "SPE": 30
+  },
+  "pokemonFlag": "NORMAL",
+  "abilities": {
+    "IMMUNITY": 49.75,
+    "THICK_FAT": 49.75,
+    "GLUTTONY": 0.5
+  },
+  "genders": {
+    "MALE": 88,
+    "FEMALE": 12
+  }
+}
