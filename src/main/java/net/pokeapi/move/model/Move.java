@@ -1,53 +1,46 @@
 package net.pokeapi.move.model;
 
-import com.google.gson.annotations.SerializedName;
-import net.pokeapi.move.data.MoveCategory;
-import net.pokeapi.move.data.MoveFlag;
+import net.pokeapi.battle.BattleContext;
+import net.pokeapi.move.data.MoveData;
 import net.pokeapi.move.data.MoveId;
-import net.pokeapi.types.Type;
+import net.pokeapi.move.effect.model.EffectData;
+import net.pokeapi.move.effect.model.MoveEffect;
+import net.pokeapi.move.effect.factory.MoveEffectFactory;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Move {
-    @SerializedName("id")
-    public final MoveId id;
+public class Move {
+    private final MoveData data;
+    private final List<MoveEffect> effects;
 
-    @SerializedName("type")
-    public final Type type;
+    public Move(MoveData data) {
+        this.data = data;
 
-    @SerializedName("category")
-    public final MoveCategory category;
+        this.effects = new ArrayList<>();
 
-    @SerializedName("accuracy")
-    public final int accuracy;
-
-    @SerializedName("pp")
-    public int pp;
-
-    @SerializedName("defaultPp")
-    public int defaultPp;
-
-    @SerializedName("maxPp")
-    public final int maxPp;
-
-    @SerializedName("priority")
-    public final int priority;
-
-    @SerializedName("flags")
-    public final List<MoveFlag> flags;
-
-    public Move(MoveId id, Type type, MoveCategory category, int accuracy, int pp,
-                int maxPp, int priority, List<MoveFlag> flags) {
-        this.id = id;
-        this.type = type;
-        this.category = category;
-        this.accuracy = accuracy;
-        this.pp = pp;
-        this.defaultPp = pp;
-        this.maxPp = maxPp;
-        this.priority = priority;
-        this.flags = flags;
+        if (data.effects() != null) {
+            for (EffectData effectData : data.effects()) {
+                effects.add(MoveEffectFactory.create(effectData));
+            }
+        }
     }
 
-    // Getters e outros métodos permanecem
+    public void apply(BattleContext ctx) {
+        if (data.power() > 0) {
+            if (ctx.roll(data.accuracy())) {
+                ctx.damageTarget(data.power(), data.type());
+            }
+        }
+
+        for (MoveEffect effect : effects) {
+            effect.apply(ctx);
+        }
+    }
+
+    public int getPower() {
+        return data.power();
+    }
+
+    public MoveId getId() { return data.id(); }
 }

@@ -1,32 +1,35 @@
 package net.pokeapi.move.registry;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import net.pokeapi.io.JsonDeserializer;
+import net.pokeapi.move.data.MoveData;
 import net.pokeapi.move.data.MoveId;
-import net.pokeapi.move.io.MoveAdapter;
 import net.pokeapi.move.model.Move;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.HashMap;
+import java.util.EnumMap;
 import java.util.Map;
 
 public final class MoveRegistry {
-
-    public static final Map<MoveId, Move> DATA = new HashMap<>();
-
-    private static final Gson GSON = new GsonBuilder()
-            .registerTypeAdapter(Move.class, new MoveAdapter())
-            .create();
-
     private MoveRegistry() { }
 
-    static {
-        loadAll(Path.of("src/main/resources/moves"));
+    private static final Map<MoveId, Move> DATA = new EnumMap<>(MoveId.class);
+
+    public static Move get(MoveId id) {
+        Move move = DATA.get(id);
+        if (move == null) {
+            throw new IllegalArgumentException("Move not registered: " + id);
+        }
+        return move;
     }
 
-    public static void loadAll(Path folder) {
+    public static void register(MoveId id, Move move) {
+        if (DATA.containsKey(id)) return;
+        DATA.put(id, move);
+    }
+
+    public static void loadMoves(Path folder) {
         try (var paths = Files.walk(folder)) {
             paths
                     .filter(p -> p.toString().endsWith(".json"))
@@ -36,33 +39,16 @@ public final class MoveRegistry {
         }
     }
 
-    private static void loadOne(Path path) {
-        Move data;
+    public static void loadOne(Path path) {
+        MoveData moveData;
         try {
-            String json = Files.readString(path);
-            data = GSON.fromJson(json, Move.class);
+            moveData = JsonDeserializer.read(path, MoveData.class);
         } catch (Exception e) {
-            System.err.println("Erro ao carregar movimento: " + path);
-            e.printStackTrace();
-            return;
+            throw new RuntimeException("Move not read correctly");
         }
 
-        if (data == null) throw new RuntimeException("Data is null: " + path);
-
-        DATA.put(data.id, data);
-    }
-
-    public static Move get(MoveId id) {
-        Move data = DATA.get(id);
-        if (data == null) {
-            throw new IllegalArgumentException(
-                    "Movimento não encontrado: " + id
-            );
-        }
-        return data;
-    }
-
-    public static Map<MoveId, Move> getAll() {
-        return Map.copyOf(DATA);
+        assert moveData != null;
+        assert moveData.id() != null;
+        MoveRegistry.register(moveData.id(), new Move(moveData));
     }
 }

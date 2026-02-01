@@ -15,7 +15,6 @@ import net.pokeapi.stats.value.Ivs;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 public class Pokemon {
 
@@ -143,23 +142,23 @@ public class Pokemon {
     }
 
     public void removeMove(MoveId id) {
-        moveset.removeIf(move -> move.id == id);
+        moveset.removeIf(move -> move.getId() == id);
     }
 
     public Move getMove(MoveId id) {
         return moveset.stream()
-                .filter(move -> move.id.equals(id))
+                .filter(move -> move.getId().equals(id))
                 .findFirst()
                 .orElse(null);
     }
 
     public boolean haveMove(MoveId id) {
-        return moveset.stream().anyMatch(move -> move.id == id);
+        return moveset.stream().anyMatch(move -> move.getId() == id);
     }
 
     public boolean canAddMove(Move move) {
         if (moveset.size() == 4) return false;
-        return !haveMove(move.id);
+        return !haveMove(move.getId());
     }
 
     public void addMove(Move move) {
